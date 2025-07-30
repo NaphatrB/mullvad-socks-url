@@ -32,7 +32,7 @@ jobs:
         python3 generator.py
         ls
         git add .
-        git commit -m "${{ env.TAG_NAME }}"
+        git commit -m "update result"
         git push -u origin result
     - name: Upload to Releases
       uses: softprops/action-gh-release@v1
