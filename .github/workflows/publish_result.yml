@@ -28,14 +28,8 @@ jobs:
         git checkout result
         git pull
         echo "TAG_NAME=$(date +"%Y-%m-%dT%H-%M-%S")" >> $GITHUB_ENV
-    - name: Download and install script dependencies
-      run: |
         pip3 install -r requirements.txt
-    - name: Generate result
-      run: |
         python3 generator.py
-    - name: Push result to "result" branch
-      run: |
         ls
         git add .
         git commit -m "${{ env.TAG_NAME }}"
