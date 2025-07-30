@@ -4,7 +4,7 @@ import re
 import os
 
 # Ensure the result folder exists
-output_dir = '.'
+output_dir = 'result'
 os.makedirs(output_dir, exist_ok=True)
 
 # Fetch Mullvad WireGuard relays
