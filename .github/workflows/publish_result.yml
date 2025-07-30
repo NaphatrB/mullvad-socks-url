@@ -34,6 +34,7 @@ jobs:
     - name: Generate result
       run: |
         python3 generator.py
+        ls
     - name: Push result to "result" branch
       run: |
         cd repo
