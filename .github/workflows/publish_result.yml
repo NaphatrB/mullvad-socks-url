@@ -37,6 +37,7 @@ jobs:
     - name: Push result to "result" branch
       run: |
         cd repo
+        ls
         git add .
         git commit -m "${{ env.TAG_NAME }}"
         git push -u origin result
