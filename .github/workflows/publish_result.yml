@@ -25,22 +25,22 @@ jobs:
         cd repo
         git config user.name "${{ github.actor }}"
         git config user.email "${{ github.actor }}@users.noreply.github.com"
-        git checkout list
+        git checkout result
         git pull
         rm *.txt
         echo "TAG_NAME=$(date +"%Y-%m-%dT%H-%M-%S")" >> $GITHUB_ENV
     - name: Download and install script dependencies
       run: |
         pip3 install -r requirements.txt
-    - name: Generate list
+    - name: Generate result
       run: |
         python3 generator.py
-    - name: Push result to "list" branch
+    - name: Push result to "result" branch
       run: |
         cd repo
         git add .
         git commit -m "${{ env.TAG_NAME }}"
-        git push -u origin list
+        git push -u origin result
     - name: Upload to Releases
       uses: softprops/action-gh-release@v1
       env:
