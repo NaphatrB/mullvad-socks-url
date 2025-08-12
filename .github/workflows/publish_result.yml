@@ -15,7 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: result    # Checkout the result branch directly
           fetch-depth: 0 # Needed for full git history if required
 
       - uses: actions/setup-python@v4
@@ -37,6 +36,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          git checkout -b result
           git add .
           git diff-index --quiet HEAD || git commit -m "update result"
-          git push origin result
+          git push -u origin result
