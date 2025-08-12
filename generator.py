@@ -28,7 +28,6 @@ number_pattern = re.compile(r'\d+$')
 
 for host in r:
     if host['socks_name'] and host['active']:
-        total_proxies += 1
         match = number_pattern.search(host['hostname'])
         number = match.group(0) if match else host['hostname']
         custom_name = f"{host['country_name']} {host['city_name']} {number}"
