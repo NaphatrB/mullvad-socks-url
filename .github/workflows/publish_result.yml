@@ -36,7 +36,6 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git checkout -b result
           git add .
           git diff-index --quiet HEAD || git commit -m "update result"
-          git push -u origin result
+          git push
