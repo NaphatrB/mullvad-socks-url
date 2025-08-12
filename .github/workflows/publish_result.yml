@@ -13,24 +13,28 @@ jobs:
     timeout-minutes: 10
   
     steps:
-    - uses: actions/checkout@v3
-    - uses: actions/setup-python@v4
-      with:
-        python-version: '3.13'
-        cache: 'pip'
+      - uses: actions/checkout@v4
+        with:
+          ref: result    # Checkout the result branch directly
+          fetch-depth: 0 # Needed for full git history if required
 
-    - name: Clone and setup repo
-      run: |
-        git clone "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" repo
-        cd repo
-        git config user.name "${{ github.actor }}"
-        git config user.email "${{ github.actor }}@users.noreply.github.com"
-        git checkout result
-        git pull
-        echo "TAG_NAME=$(date +"%Y-%m-%dT%H-%M-%S")" >> $GITHUB_ENV
-        pip3 install -r requirements.txt
-        python3 generator.py
-        ls
-        git add .
-        git commit -m "update result"
-        git push -u origin result
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - name: Configure git
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: Generate file
+        run: |
+          pip install -r requirements.txt
+          python generator.py
+
+      - name: Commit and push changes
+        run: |
+          git add .
+          git diff-index --quiet HEAD || git commit -m "update result"
+          git push origin result
