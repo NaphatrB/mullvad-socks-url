@@ -514,9 +514,8 @@ socks5://us-slc-wg-socks5-201.relays.mullvad.net:1080/#USA%20Salt%20Lake%20City%
 socks5://us-slc-wg-socks5-202.relays.mullvad.net:1080/#USA%20Salt%20Lake%20City%2C%20UT%20202
 socks5://us-slc-wg-socks5-203.relays.mullvad.net:1080/#USA%20Salt%20Lake%20City%2C%20UT%20203
 socks5://us-slc-wg-socks5-204.relays.mullvad.net:1080/#USA%20Salt%20Lake%20City%2C%20UT%20204
+socks5://us-slc-wg-socks5-301.relays.mullvad.net:1080/#USA%20Salt%20Lake%20City%2C%20UT%20301
 socks5://us-slc-wg-socks5-302.relays.mullvad.net:1080/#USA%20Salt%20Lake%20City%2C%20UT%20302
-socks5://us-slc-wg-socks5-303.relays.mullvad.net:1080/#USA%20Salt%20Lake%20City%2C%20UT%20303
-socks5://us-slc-wg-socks5-304.relays.mullvad.net:1080/#USA%20Salt%20Lake%20City%2C%20UT%20304
 socks5://us-slc-wg-socks5-305.relays.mullvad.net:1080/#USA%20Salt%20Lake%20City%2C%20UT%20305
 socks5://us-slc-wg-socks5-306.relays.mullvad.net:1080/#USA%20Salt%20Lake%20City%2C%20UT%20306
 socks5://us-slc-wg-socks5-307.relays.mullvad.net:1080/#USA%20Salt%20Lake%20City%2C%20UT%20307
