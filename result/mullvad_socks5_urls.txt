@@ -1,3 +1,5 @@
+socks5://al-tia-wg-socks5-001.relays.mullvad.net:1080/#Albania%20Tirana%20001
+socks5://al-tia-wg-socks5-002.relays.mullvad.net:1080/#Albania%20Tirana%20002
 socks5://at-vie-wg-socks5-001.relays.mullvad.net:1080/#Austria%20Vienna%20001
 socks5://at-vie-wg-socks5-002.relays.mullvad.net:1080/#Austria%20Vienna%20002
 socks5://at-vie-wg-socks5-003.relays.mullvad.net:1080/#Austria%20Vienna%20003
@@ -227,6 +229,10 @@ socks5://nl-ams-wg-socks5-001.relays.mullvad.net:1080/#Netherlands%20Amsterdam%2
 socks5://nl-ams-wg-socks5-002.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20002
 socks5://nl-ams-wg-socks5-003.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20003
 socks5://nl-ams-wg-socks5-004.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20004
+socks5://nl-ams-wg-socks5-005.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20005
+socks5://nl-ams-wg-socks5-006.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20006
+socks5://nl-ams-wg-socks5-007.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20007
+socks5://nl-ams-wg-socks5-008.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20008
 socks5://nl-ams-wg-socks5-101.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20101
 socks5://nl-ams-wg-socks5-102.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20102
 socks5://nl-ams-wg-socks5-103.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20103
