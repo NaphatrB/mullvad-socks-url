@@ -253,6 +253,7 @@ socks5://nz-akl-wg-socks5-302.relays.mullvad.net:1080/#New%20Zealand%20Auckland%
 socks5://pe-lim-wg-socks5-001.relays.mullvad.net:1080/#Peru%20Lima%20001
 socks5://pe-lim-wg-socks5-002.relays.mullvad.net:1080/#Peru%20Lima%20002
 socks5://ph-mnl-wg-socks5-001.relays.mullvad.net:1080/#Philippines%20Manila%20001
+socks5://ph-mnl-wg-socks5-002.relays.mullvad.net:1080/#Philippines%20Manila%20002
 socks5://pl-waw-wg-socks5-101.relays.mullvad.net:1080/#Poland%20Warsaw%20101
 socks5://pl-waw-wg-socks5-102.relays.mullvad.net:1080/#Poland%20Warsaw%20102
 socks5://pl-waw-wg-socks5-103.relays.mullvad.net:1080/#Poland%20Warsaw%20103
