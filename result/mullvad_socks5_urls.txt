@@ -211,7 +211,6 @@ socks5://jp-osa-wg-socks5-004.relays.mullvad.net:1080/#Japan%20Osaka%20004
 socks5://jp-tyo-wg-socks5-001.relays.mullvad.net:1080/#Japan%20Tokyo%20001
 socks5://jp-tyo-wg-socks5-002.relays.mullvad.net:1080/#Japan%20Tokyo%20002
 socks5://jp-tyo-wg-socks5-201.relays.mullvad.net:1080/#Japan%20Tokyo%20201
-socks5://jp-tyo-wg-socks5-202.relays.mullvad.net:1080/#Japan%20Tokyo%20202
 socks5://jp-tyo-wg-socks5-203.relays.mullvad.net:1080/#Japan%20Tokyo%20203
 socks5://mx-qro-wg-socks5-001.relays.mullvad.net:1080/#Mexico%20Queretaro%20001
 socks5://mx-qro-wg-socks5-002.relays.mullvad.net:1080/#Mexico%20Queretaro%20002
