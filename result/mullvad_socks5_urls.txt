@@ -156,6 +156,8 @@ socks5://fr-par-wg-socks5-101.relays.mullvad.net:1080/#France%20Paris%20101
 socks5://fr-par-wg-socks5-102.relays.mullvad.net:1080/#France%20Paris%20102
 socks5://fr-par-wg-socks5-301.relays.mullvad.net:1080/#France%20Paris%20301
 socks5://fr-par-wg-socks5-302.relays.mullvad.net:1080/#France%20Paris%20302
+socks5://gb-glw-wg-socks5-001.relays.mullvad.net:1080/#UK%20Glasgow%20001
+socks5://gb-glw-wg-socks5-002.relays.mullvad.net:1080/#UK%20Glasgow%20002
 socks5://gb-lon-wg-socks5-001.relays.mullvad.net:1080/#UK%20London%20001
 socks5://gb-lon-wg-socks5-003.relays.mullvad.net:1080/#UK%20London%20003
 socks5://gb-lon-wg-socks5-004.relays.mullvad.net:1080/#UK%20London%20004
