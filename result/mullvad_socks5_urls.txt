@@ -170,6 +170,7 @@ socks5://gb-lon-wg-socks5-202.relays.mullvad.net:1080/#UK%20London%20202
 socks5://gb-lon-wg-socks5-203.relays.mullvad.net:1080/#UK%20London%20203
 socks5://gb-lon-wg-socks5-204.relays.mullvad.net:1080/#UK%20London%20204
 socks5://gb-lon-wg-socks5-301.relays.mullvad.net:1080/#UK%20London%20301
+socks5://gb-lon-wg-socks5-302.relays.mullvad.net:1080/#UK%20London%20302
 socks5://gb-lon-wg-socks5-304.relays.mullvad.net:1080/#UK%20London%20304
 socks5://gb-mnc-wg-socks5-001.relays.mullvad.net:1080/#UK%20Manchester%20001
 socks5://gb-mnc-wg-socks5-002.relays.mullvad.net:1080/#UK%20Manchester%20002
@@ -291,9 +292,6 @@ socks5://se-mma-wg-socks5-111.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20111
 socks5://se-mma-wg-socks5-112.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20112
 socks5://se-sto-wg-socks5-001.relays.mullvad.net:1080/#Sweden%20Stockholm%20001
 socks5://se-sto-wg-socks5-003.relays.mullvad.net:1080/#Sweden%20Stockholm%20003
-socks5://se-sto-wg-socks5-004.relays.mullvad.net:1080/#Sweden%20Stockholm%20004
-socks5://se-sto-wg-socks5-005.relays.mullvad.net:1080/#Sweden%20Stockholm%20005
-socks5://se-sto-wg-socks5-006.relays.mullvad.net:1080/#Sweden%20Stockholm%20006
 socks5://se-sto-wg-socks5-007.relays.mullvad.net:1080/#Sweden%20Stockholm%20007
 socks5://se-sto-wg-socks5-008.relays.mullvad.net:1080/#Sweden%20Stockholm%20008
 socks5://se-sto-wg-socks5-009.relays.mullvad.net:1080/#Sweden%20Stockholm%20009
