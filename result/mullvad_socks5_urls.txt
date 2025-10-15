@@ -272,8 +272,6 @@ socks5://rs-beg-wg-socks5-102.relays.mullvad.net:1080/#Serbia%20Belgrade%20102
 socks5://se-got-wg-socks5-001.relays.mullvad.net:1080/#Sweden%20Gothenburg%20001
 socks5://se-got-wg-socks5-002.relays.mullvad.net:1080/#Sweden%20Gothenburg%20002
 socks5://se-got-wg-socks5-003.relays.mullvad.net:1080/#Sweden%20Gothenburg%20003
-socks5://se-got-wg-socks5-004.relays.mullvad.net:1080/#Sweden%20Gothenburg%20004
-socks5://se-got-wg-socks5-005.relays.mullvad.net:1080/#Sweden%20Gothenburg%20005
 socks5://se-got-wg-socks5-006.relays.mullvad.net:1080/#Sweden%20Gothenburg%20006
 socks5://se-got-wg-socks5-007.relays.mullvad.net:1080/#Sweden%20Gothenburg%20007
 socks5://se-got-wg-socks5-008.relays.mullvad.net:1080/#Sweden%20Gothenburg%20008
@@ -381,8 +379,6 @@ socks5://us-den-wg-socks5-205.relays.mullvad.net:1080/#USA%20Denver%2C%20CO%2020
 socks5://us-den-wg-socks5-206.relays.mullvad.net:1080/#USA%20Denver%2C%20CO%20206
 socks5://us-den-wg-socks5-207.relays.mullvad.net:1080/#USA%20Denver%2C%20CO%20207
 socks5://us-den-wg-socks5-208.relays.mullvad.net:1080/#USA%20Denver%2C%20CO%20208
-socks5://us-det-wg-socks5-001.relays.mullvad.net:1080/#USA%20Detroit%2C%20MI%20001
-socks5://us-det-wg-socks5-002.relays.mullvad.net:1080/#USA%20Detroit%2C%20MI%20002
 socks5://us-hou-wg-socks5-001.relays.mullvad.net:1080/#USA%20Houston%2C%20TX%20001
 socks5://us-hou-wg-socks5-002.relays.mullvad.net:1080/#USA%20Houston%2C%20TX%20002
 socks5://us-hou-wg-socks5-003.relays.mullvad.net:1080/#USA%20Houston%2C%20TX%20003
