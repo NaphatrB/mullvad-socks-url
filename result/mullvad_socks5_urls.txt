@@ -432,12 +432,6 @@ socks5://us-mkc-wg-socks5-105.relays.mullvad.net:1080/#USA%20Kansas%20City%2C%20
 socks5://us-nyc-wg-socks5-301.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20301
 socks5://us-nyc-wg-socks5-302.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20302
 socks5://us-nyc-wg-socks5-303.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20303
-socks5://us-nyc-wg-socks5-401.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20401
-socks5://us-nyc-wg-socks5-402.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20402
-socks5://us-nyc-wg-socks5-403.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20403
-socks5://us-nyc-wg-socks5-404.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20404
-socks5://us-nyc-wg-socks5-405.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20405
-socks5://us-nyc-wg-socks5-406.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20406
 socks5://us-nyc-wg-socks5-501.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20501
 socks5://us-nyc-wg-socks5-502.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20502
 socks5://us-nyc-wg-socks5-503.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20503
