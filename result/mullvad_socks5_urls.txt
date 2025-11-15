@@ -158,6 +158,7 @@ socks5://fr-par-wg-socks5-302.relays.mullvad.net:1080/#France%20Paris%20302
 socks5://gb-glw-wg-socks5-001.relays.mullvad.net:1080/#UK%20Glasgow%20001
 socks5://gb-glw-wg-socks5-002.relays.mullvad.net:1080/#UK%20Glasgow%20002
 socks5://gb-lon-wg-socks5-001.relays.mullvad.net:1080/#UK%20London%20001
+socks5://gb-lon-wg-socks5-002.relays.mullvad.net:1080/#UK%20London%20002
 socks5://gb-lon-wg-socks5-003.relays.mullvad.net:1080/#UK%20London%20003
 socks5://gb-lon-wg-socks5-004.relays.mullvad.net:1080/#UK%20London%20004
 socks5://gb-lon-wg-socks5-005.relays.mullvad.net:1080/#UK%20London%20005
@@ -239,12 +240,9 @@ socks5://nl-ams-wg-socks5-202.relays.mullvad.net:1080/#Netherlands%20Amsterdam%2
 socks5://nl-ams-wg-socks5-203.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20203
 socks5://no-osl-wg-socks5-001.relays.mullvad.net:1080/#Norway%20Oslo%20001
 socks5://no-osl-wg-socks5-002.relays.mullvad.net:1080/#Norway%20Oslo%20002
-socks5://no-osl-wg-socks5-003.relays.mullvad.net:1080/#Norway%20Oslo%20003
 socks5://no-osl-wg-socks5-004.relays.mullvad.net:1080/#Norway%20Oslo%20004
 socks5://no-osl-wg-socks5-005.relays.mullvad.net:1080/#Norway%20Oslo%20005
 socks5://no-osl-wg-socks5-006.relays.mullvad.net:1080/#Norway%20Oslo%20006
-socks5://no-osl-wg-socks5-007.relays.mullvad.net:1080/#Norway%20Oslo%20007
-socks5://no-osl-wg-socks5-008.relays.mullvad.net:1080/#Norway%20Oslo%20008
 socks5://no-svg-wg-socks5-001.relays.mullvad.net:1080/#Norway%20Stavanger%20001
 socks5://no-svg-wg-socks5-002.relays.mullvad.net:1080/#Norway%20Stavanger%20002
 socks5://no-svg-wg-socks5-003.relays.mullvad.net:1080/#Norway%20Stavanger%20003
@@ -343,7 +341,6 @@ socks5://us-bos-wg-socks5-001.relays.mullvad.net:1080/#USA%20Boston%2C%20MA%2000
 socks5://us-bos-wg-socks5-101.relays.mullvad.net:1080/#USA%20Boston%2C%20MA%20101
 socks5://us-bos-wg-socks5-102.relays.mullvad.net:1080/#USA%20Boston%2C%20MA%20102
 socks5://us-chi-wg-socks5-201.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20201
-socks5://us-chi-wg-socks5-202.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20202
 socks5://us-chi-wg-socks5-203.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20203
 socks5://us-chi-wg-socks5-301.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20301
 socks5://us-chi-wg-socks5-302.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20302
