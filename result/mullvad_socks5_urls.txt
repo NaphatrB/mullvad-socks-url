@@ -1,5 +1,7 @@
 socks5://al-tia-wg-socks5-003.relays.mullvad.net:1080/#Albania%20Tirana%20003
 socks5://al-tia-wg-socks5-004.relays.mullvad.net:1080/#Albania%20Tirana%20004
+socks5://ar-bue-wg-socks5-001.relays.mullvad.net:1080/#Argentina%20Buenos%20Aires%20001
+socks5://ar-bue-wg-socks5-002.relays.mullvad.net:1080/#Argentina%20Buenos%20Aires%20002
 socks5://at-vie-wg-socks5-001.relays.mullvad.net:1080/#Austria%20Vienna%20001
 socks5://at-vie-wg-socks5-002.relays.mullvad.net:1080/#Austria%20Vienna%20002
 socks5://at-vie-wg-socks5-003.relays.mullvad.net:1080/#Austria%20Vienna%20003
@@ -284,8 +286,6 @@ socks5://se-mma-wg-socks5-012.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20012
 socks5://se-mma-wg-socks5-101.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20101
 socks5://se-mma-wg-socks5-102.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20102
 socks5://se-mma-wg-socks5-103.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20103
-socks5://se-mma-wg-socks5-111.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20111
-socks5://se-mma-wg-socks5-112.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20112
 socks5://se-sto-wg-socks5-001.relays.mullvad.net:1080/#Sweden%20Stockholm%20001
 socks5://se-sto-wg-socks5-002.relays.mullvad.net:1080/#Sweden%20Stockholm%20002
 socks5://se-sto-wg-socks5-003.relays.mullvad.net:1080/#Sweden%20Stockholm%20003
