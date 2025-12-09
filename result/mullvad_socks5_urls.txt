@@ -82,6 +82,7 @@ socks5://co-bog-wg-socks5-001.relays.mullvad.net:1080/#Colombia%20Bogota%20001
 socks5://co-bog-wg-socks5-002.relays.mullvad.net:1080/#Colombia%20Bogota%20002
 socks5://cy-nic-wg-socks5-001.relays.mullvad.net:1080/#Cyprus%20Nicosia%20001
 socks5://cy-nic-wg-socks5-002.relays.mullvad.net:1080/#Cyprus%20Nicosia%20002
+socks5://cz-prg-wg-socks5-101.relays.mullvad.net:1080/#Czech%20Republic%20Prague%20101
 socks5://cz-prg-wg-socks5-102.relays.mullvad.net:1080/#Czech%20Republic%20Prague%20102
 socks5://cz-prg-wg-socks5-201.relays.mullvad.net:1080/#Czech%20Republic%20Prague%20201
 socks5://cz-prg-wg-socks5-202.relays.mullvad.net:1080/#Czech%20Republic%20Prague%20202
@@ -190,6 +191,7 @@ socks5://gr-ath-wg-socks5-102.relays.mullvad.net:1080/#Greece%20Athens%20102
 socks5://hk-hkg-wg-socks5-201.relays.mullvad.net:1080/#Hong%20Kong%20Hong%20Kong%20201
 socks5://hk-hkg-wg-socks5-301.relays.mullvad.net:1080/#Hong%20Kong%20Hong%20Kong%20301
 socks5://hk-hkg-wg-socks5-302.relays.mullvad.net:1080/#Hong%20Kong%20Hong%20Kong%20302
+socks5://hk-hkg-wg-socks5-303.relays.mullvad.net:1080/#Hong%20Kong%20Hong%20Kong%20303
 socks5://hr-zag-wg-socks5-001.relays.mullvad.net:1080/#Croatia%20Zagreb%20001
 socks5://hr-zag-wg-socks5-002.relays.mullvad.net:1080/#Croatia%20Zagreb%20002
 socks5://hu-bud-wg-socks5-101.relays.mullvad.net:1080/#Hungary%20Budapest%20101
