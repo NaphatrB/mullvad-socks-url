@@ -130,6 +130,8 @@ socks5://es-bcn-wg-socks5-001.relays.mullvad.net:1080/#Spain%20Barcelona%20001
 socks5://es-bcn-wg-socks5-002.relays.mullvad.net:1080/#Spain%20Barcelona%20002
 socks5://es-bcn-wg-socks5-101.relays.mullvad.net:1080/#Spain%20Barcelona%20101
 socks5://es-bcn-wg-socks5-102.relays.mullvad.net:1080/#Spain%20Barcelona%20102
+socks5://es-mad-wg-socks5-101.relays.mullvad.net:1080/#Spain%20Madrid%20101
+socks5://es-mad-wg-socks5-102.relays.mullvad.net:1080/#Spain%20Madrid%20102
 socks5://es-mad-wg-socks5-201.relays.mullvad.net:1080/#Spain%20Madrid%20201
 socks5://es-mad-wg-socks5-202.relays.mullvad.net:1080/#Spain%20Madrid%20202
 socks5://es-vlc-wg-socks5-001.relays.mullvad.net:1080/#Spain%20Valencia%20001
@@ -340,6 +342,8 @@ socks5://us-atl-wg-socks5-406.relays.mullvad.net:1080/#USA%20Atlanta%2C%20GA%204
 socks5://us-atl-wg-socks5-407.relays.mullvad.net:1080/#USA%20Atlanta%2C%20GA%20407
 socks5://us-atl-wg-socks5-408.relays.mullvad.net:1080/#USA%20Atlanta%2C%20GA%20408
 socks5://us-bos-wg-socks5-001.relays.mullvad.net:1080/#USA%20Boston%2C%20MA%20001
+socks5://us-bos-wg-socks5-101.relays.mullvad.net:1080/#USA%20Boston%2C%20MA%20101
+socks5://us-bos-wg-socks5-102.relays.mullvad.net:1080/#USA%20Boston%2C%20MA%20102
 socks5://us-chi-wg-socks5-201.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20201
 socks5://us-chi-wg-socks5-203.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20203
 socks5://us-chi-wg-socks5-301.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20301
