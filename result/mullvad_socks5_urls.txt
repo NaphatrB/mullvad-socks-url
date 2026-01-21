@@ -369,6 +369,7 @@ socks5://us-dal-wg-socks5-601.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%2060
 socks5://us-dal-wg-socks5-602.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20602
 socks5://us-dal-wg-socks5-603.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20603
 socks5://us-dal-wg-socks5-604.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20604
+socks5://us-dal-wg-socks5-701.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20701
 socks5://us-den-wg-socks5-101.relays.mullvad.net:1080/#USA%20Denver%2C%20CO%20101
 socks5://us-den-wg-socks5-102.relays.mullvad.net:1080/#USA%20Denver%2C%20CO%20102
 socks5://us-den-wg-socks5-103.relays.mullvad.net:1080/#USA%20Denver%2C%20CO%20103
