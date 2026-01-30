@@ -299,7 +299,6 @@ socks5://se-mma-wg-socks5-004.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20004
 socks5://se-mma-wg-socks5-005.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20005
 socks5://se-mma-wg-socks5-011.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20011
 socks5://se-mma-wg-socks5-012.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20012
-socks5://se-mma-wg-socks5-101.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20101
 socks5://se-mma-wg-socks5-102.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20102
 socks5://se-mma-wg-socks5-103.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20103
 socks5://se-mma-wg-socks5-111.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20111
@@ -533,6 +532,7 @@ socks5://us-sjc-wg-socks5-302.relays.mullvad.net:1080/#USA%20San%20Jose%2C%20CA%
 socks5://us-sjc-wg-socks5-303.relays.mullvad.net:1080/#USA%20San%20Jose%2C%20CA%20303
 socks5://us-sjc-wg-socks5-401.relays.mullvad.net:1080/#USA%20San%20Jose%2C%20CA%20401
 socks5://us-sjc-wg-socks5-402.relays.mullvad.net:1080/#USA%20San%20Jose%2C%20CA%20402
+socks5://us-sjc-wg-socks5-501.relays.mullvad.net:1080/#USA%20San%20Jose%2C%20CA%20501
 socks5://us-sjc-wg-socks5-502.relays.mullvad.net:1080/#USA%20San%20Jose%2C%20CA%20502
 socks5://us-sjc-wg-socks5-503.relays.mullvad.net:1080/#USA%20San%20Jose%2C%20CA%20503
 socks5://us-sjc-wg-socks5-504.relays.mullvad.net:1080/#USA%20San%20Jose%2C%20CA%20504
