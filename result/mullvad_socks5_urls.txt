@@ -11,7 +11,6 @@ socks5://au-adl-wg-socks5-301.relays.mullvad.net:1080/#Australia%20Adelaide%2030
 socks5://au-adl-wg-socks5-302.relays.mullvad.net:1080/#Australia%20Adelaide%20302
 socks5://au-bne-wg-socks5-301.relays.mullvad.net:1080/#Australia%20Brisbane%20301
 socks5://au-bne-wg-socks5-302.relays.mullvad.net:1080/#Australia%20Brisbane%20302
-socks5://au-mel-wg-socks5-302.relays.mullvad.net:1080/#Australia%20Melbourne%20302
 socks5://au-per-wg-socks5-301.relays.mullvad.net:1080/#Australia%20Perth%20301
 socks5://au-per-wg-socks5-302.relays.mullvad.net:1080/#Australia%20Perth%20302
 socks5://au-syd-wg-socks5-001.relays.mullvad.net:1080/#Australia%20Sydney%20001
@@ -346,7 +345,6 @@ socks5://us-atl-wg-socks5-406.relays.mullvad.net:1080/#USA%20Atlanta%2C%20GA%204
 socks5://us-atl-wg-socks5-407.relays.mullvad.net:1080/#USA%20Atlanta%2C%20GA%20407
 socks5://us-atl-wg-socks5-408.relays.mullvad.net:1080/#USA%20Atlanta%2C%20GA%20408
 socks5://us-bos-wg-socks5-001.relays.mullvad.net:1080/#USA%20Boston%2C%20MA%20001
-socks5://us-bos-wg-socks5-002.relays.mullvad.net:1080/#USA%20Boston%2C%20MA%20002
 socks5://us-bos-wg-socks5-101.relays.mullvad.net:1080/#USA%20Boston%2C%20MA%20101
 socks5://us-bos-wg-socks5-102.relays.mullvad.net:1080/#USA%20Boston%2C%20MA%20102
 socks5://us-chi-wg-socks5-201.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20201
@@ -406,9 +404,6 @@ socks5://us-hou-wg-socks5-001.relays.mullvad.net:1080/#USA%20Houston%2C%20TX%200
 socks5://us-hou-wg-socks5-002.relays.mullvad.net:1080/#USA%20Houston%2C%20TX%20002
 socks5://us-hou-wg-socks5-003.relays.mullvad.net:1080/#USA%20Houston%2C%20TX%20003
 socks5://us-hou-wg-socks5-004.relays.mullvad.net:1080/#USA%20Houston%2C%20TX%20004
-socks5://us-lax-wg-socks5-101.relays.mullvad.net:1080/#USA%20Los%20Angeles%2C%20CA%20101
-socks5://us-lax-wg-socks5-102.relays.mullvad.net:1080/#USA%20Los%20Angeles%2C%20CA%20102
-socks5://us-lax-wg-socks5-103.relays.mullvad.net:1080/#USA%20Los%20Angeles%2C%20CA%20103
 socks5://us-lax-wg-socks5-201.relays.mullvad.net:1080/#USA%20Los%20Angeles%2C%20CA%20201
 socks5://us-lax-wg-socks5-202.relays.mullvad.net:1080/#USA%20Los%20Angeles%2C%20CA%20202
 socks5://us-lax-wg-socks5-203.relays.mullvad.net:1080/#USA%20Los%20Angeles%2C%20CA%20203
@@ -456,7 +451,6 @@ socks5://us-nyc-wg-socks5-302.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%
 socks5://us-nyc-wg-socks5-303.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20303
 socks5://us-nyc-wg-socks5-501.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20501
 socks5://us-nyc-wg-socks5-502.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20502
-socks5://us-nyc-wg-socks5-503.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20503
 socks5://us-nyc-wg-socks5-504.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20504
 socks5://us-nyc-wg-socks5-505.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20505
 socks5://us-nyc-wg-socks5-506.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20506
@@ -469,10 +463,6 @@ socks5://us-nyc-wg-socks5-606.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%
 socks5://us-nyc-wg-socks5-701.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20701
 socks5://us-nyc-wg-socks5-702.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20702
 socks5://us-nyc-wg-socks5-703.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20703
-socks5://us-nyc-wg-socks5-801.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20801
-socks5://us-nyc-wg-socks5-802.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20802
-socks5://us-nyc-wg-socks5-803.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20803
-socks5://us-nyc-wg-socks5-804.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20804
 socks5://us-nyc-wg-socks5-805.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20805
 socks5://us-nyc-wg-socks5-806.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20806
 socks5://us-nyc-wg-socks5-807.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20807
