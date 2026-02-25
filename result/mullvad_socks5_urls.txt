@@ -375,7 +375,6 @@ socks5://us-dal-wg-socks5-502.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%2050
 socks5://us-dal-wg-socks5-503.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20503
 socks5://us-dal-wg-socks5-504.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20504
 socks5://us-dal-wg-socks5-505.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20505
-socks5://us-dal-wg-socks5-506.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20506
 socks5://us-dal-wg-socks5-507.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20507
 socks5://us-dal-wg-socks5-601.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20601
 socks5://us-dal-wg-socks5-602.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20602
@@ -475,10 +474,6 @@ socks5://us-phx-wg-socks5-205.relays.mullvad.net:1080/#USA%20Phoenix%2C%20AZ%202
 socks5://us-phx-wg-socks5-206.relays.mullvad.net:1080/#USA%20Phoenix%2C%20AZ%20206
 socks5://us-phx-wg-socks5-207.relays.mullvad.net:1080/#USA%20Phoenix%2C%20AZ%20207
 socks5://us-phx-wg-socks5-208.relays.mullvad.net:1080/#USA%20Phoenix%2C%20AZ%20208
-socks5://us-qas-wg-socks5-001.relays.mullvad.net:1080/#USA%20Ashburn%2C%20VA%20001
-socks5://us-qas-wg-socks5-002.relays.mullvad.net:1080/#USA%20Ashburn%2C%20VA%20002
-socks5://us-qas-wg-socks5-003.relays.mullvad.net:1080/#USA%20Ashburn%2C%20VA%20003
-socks5://us-qas-wg-socks5-004.relays.mullvad.net:1080/#USA%20Ashburn%2C%20VA%20004
 socks5://us-qas-wg-socks5-101.relays.mullvad.net:1080/#USA%20Ashburn%2C%20VA%20101
 socks5://us-qas-wg-socks5-102.relays.mullvad.net:1080/#USA%20Ashburn%2C%20VA%20102
 socks5://us-qas-wg-socks5-103.relays.mullvad.net:1080/#USA%20Ashburn%2C%20VA%20103
