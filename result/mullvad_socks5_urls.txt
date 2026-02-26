@@ -53,11 +53,6 @@ socks5://ca-mtr-wg-socks5-308.relays.mullvad.net:1080/#Canada%20Montreal%20308
 socks5://ca-tor-wg-socks5-001.relays.mullvad.net:1080/#Canada%20Toronto%20001
 socks5://ca-tor-wg-socks5-002.relays.mullvad.net:1080/#Canada%20Toronto%20002
 socks5://ca-tor-wg-socks5-201.relays.mullvad.net:1080/#Canada%20Toronto%20201
-socks5://ca-tor-wg-socks5-202.relays.mullvad.net:1080/#Canada%20Toronto%20202
-socks5://ca-tor-wg-socks5-203.relays.mullvad.net:1080/#Canada%20Toronto%20203
-socks5://ca-tor-wg-socks5-204.relays.mullvad.net:1080/#Canada%20Toronto%20204
-socks5://ca-tor-wg-socks5-205.relays.mullvad.net:1080/#Canada%20Toronto%20205
-socks5://ca-tor-wg-socks5-206.relays.mullvad.net:1080/#Canada%20Toronto%20206
 socks5://ca-tor-wg-socks5-207.relays.mullvad.net:1080/#Canada%20Toronto%20207
 socks5://ca-van-wg-socks5-201.relays.mullvad.net:1080/#Canada%20Vancouver%20201
 socks5://ca-van-wg-socks5-202.relays.mullvad.net:1080/#Canada%20Vancouver%20202
