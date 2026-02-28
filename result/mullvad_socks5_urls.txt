@@ -345,7 +345,14 @@ socks5://us-bos-wg-socks5-101.relays.mullvad.net:1080/#USA%20Boston%2C%20MA%2010
 socks5://us-bos-wg-socks5-102.relays.mullvad.net:1080/#USA%20Boston%2C%20MA%20102
 socks5://us-chi-wg-socks5-201.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20201
 socks5://us-chi-wg-socks5-203.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20203
+socks5://us-chi-wg-socks5-301.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20301
 socks5://us-chi-wg-socks5-302.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20302
+socks5://us-chi-wg-socks5-303.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20303
+socks5://us-chi-wg-socks5-304.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20304
+socks5://us-chi-wg-socks5-305.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20305
+socks5://us-chi-wg-socks5-306.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20306
+socks5://us-chi-wg-socks5-307.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20307
+socks5://us-chi-wg-socks5-308.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20308
 socks5://us-chi-wg-socks5-309.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20309
 socks5://us-chi-wg-socks5-310.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20310
 socks5://us-chi-wg-socks5-311.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20311
