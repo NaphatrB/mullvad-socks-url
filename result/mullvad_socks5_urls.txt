@@ -80,13 +80,6 @@ socks5://ch-zrh-wg-socks5-401.relays.mullvad.net:1080/#Switzerland%20Zurich%2040
 socks5://ch-zrh-wg-socks5-402.relays.mullvad.net:1080/#Switzerland%20Zurich%20402
 socks5://ch-zrh-wg-socks5-403.relays.mullvad.net:1080/#Switzerland%20Zurich%20403
 socks5://ch-zrh-wg-socks5-404.relays.mullvad.net:1080/#Switzerland%20Zurich%20404
-socks5://ch-zrh-wg-socks5-501.relays.mullvad.net:1080/#Switzerland%20Zurich%20501
-socks5://ch-zrh-wg-socks5-502.relays.mullvad.net:1080/#Switzerland%20Zurich%20502
-socks5://ch-zrh-wg-socks5-503.relays.mullvad.net:1080/#Switzerland%20Zurich%20503
-socks5://ch-zrh-wg-socks5-504.relays.mullvad.net:1080/#Switzerland%20Zurich%20504
-socks5://ch-zrh-wg-socks5-505.relays.mullvad.net:1080/#Switzerland%20Zurich%20505
-socks5://ch-zrh-wg-socks5-506.relays.mullvad.net:1080/#Switzerland%20Zurich%20506
-socks5://ch-zrh-wg-socks5-507.relays.mullvad.net:1080/#Switzerland%20Zurich%20507
 socks5://cl-scl-wg-socks5-001.relays.mullvad.net:1080/#Chile%20Santiago%20001
 socks5://cl-scl-wg-socks5-002.relays.mullvad.net:1080/#Chile%20Santiago%20002
 socks5://co-bog-wg-socks5-001.relays.mullvad.net:1080/#Colombia%20Bogota%20001
