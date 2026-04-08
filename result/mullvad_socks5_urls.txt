@@ -280,7 +280,6 @@ socks5://se-got-wg-socks5-002.relays.mullvad.net:1080/#Sweden%20Gothenburg%20002
 socks5://se-got-wg-socks5-003.relays.mullvad.net:1080/#Sweden%20Gothenburg%20003
 socks5://se-got-wg-socks5-004.relays.mullvad.net:1080/#Sweden%20Gothenburg%20004
 socks5://se-got-wg-socks5-005.relays.mullvad.net:1080/#Sweden%20Gothenburg%20005
-socks5://se-got-wg-socks5-006.relays.mullvad.net:1080/#Sweden%20Gothenburg%20006
 socks5://se-got-wg-socks5-007.relays.mullvad.net:1080/#Sweden%20Gothenburg%20007
 socks5://se-got-wg-socks5-008.relays.mullvad.net:1080/#Sweden%20Gothenburg%20008
 socks5://se-got-wg-socks5-101.relays.mullvad.net:1080/#Sweden%20Gothenburg%20101
@@ -451,6 +450,7 @@ socks5://us-mkc-wg-socks5-104.relays.mullvad.net:1080/#USA%20Kansas%20City%2C%20
 socks5://us-mkc-wg-socks5-105.relays.mullvad.net:1080/#USA%20Kansas%20City%2C%20MO%20105
 socks5://us-nyc-wg-socks5-301.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20301
 socks5://us-nyc-wg-socks5-302.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20302
+socks5://us-nyc-wg-socks5-303.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20303
 socks5://us-nyc-wg-socks5-501.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20501
 socks5://us-nyc-wg-socks5-502.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20502
 socks5://us-nyc-wg-socks5-504.relays.mullvad.net:1080/#USA%20New%20York%2C%20NY%20504
