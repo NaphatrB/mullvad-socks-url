@@ -306,7 +306,7 @@ socks5://se-sto-wg-socks5-013.relays.mullvad.net:1080/#Sweden%20Stockholm%20013
 socks5://se-sto-wg-socks5-201.relays.mullvad.net:1080/#Sweden%20Stockholm%20201
 socks5://se-sto-wg-socks5-202.relays.mullvad.net:1080/#Sweden%20Stockholm%20202
 socks5://se-sto-wg-socks5-204.relays.mullvad.net:1080/#Sweden%20Stockholm%20204
-socks5://se-sto-wg-socks5-206.relays.mullvad.net:1080/#Sweden%20Stockholm%20206
+socks5://se-sto-wg-socks5-205.relays.mullvad.net:1080/#Sweden%20Stockholm%20205
 socks5://se-sto-wg-socks5-208.relays.mullvad.net:1080/#Sweden%20Stockholm%20208
 socks5://se-sto-wg-socks5-209.relays.mullvad.net:1080/#Sweden%20Stockholm%20209
 socks5://sg-sin-wg-socks5-001.relays.mullvad.net:1080/#Singapore%20Singapore%20001
@@ -343,6 +343,9 @@ socks5://us-atl-wg-socks5-408.relays.mullvad.net:1080/#USA%20Atlanta%2C%20GA%204
 socks5://us-bos-wg-socks5-001.relays.mullvad.net:1080/#USA%20Boston%2C%20MA%20001
 socks5://us-bos-wg-socks5-101.relays.mullvad.net:1080/#USA%20Boston%2C%20MA%20101
 socks5://us-bos-wg-socks5-102.relays.mullvad.net:1080/#USA%20Boston%2C%20MA%20102
+socks5://us-chi-wg-socks5-201.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20201
+socks5://us-chi-wg-socks5-202.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20202
+socks5://us-chi-wg-socks5-203.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20203
 socks5://us-chi-wg-socks5-301.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20301
 socks5://us-chi-wg-socks5-302.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20302
 socks5://us-chi-wg-socks5-303.relays.mullvad.net:1080/#USA%20Chicago%2C%20IL%20303
