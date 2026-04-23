@@ -14,7 +14,6 @@ socks5://au-bne-wg-socks5-301.relays.mullvad.net:1080/#Australia%20Brisbane%2030
 socks5://au-bne-wg-socks5-302.relays.mullvad.net:1080/#Australia%20Brisbane%20302
 socks5://au-bne-wg-socks5-303.relays.mullvad.net:1080/#Australia%20Brisbane%20303
 socks5://au-mel-wg-socks5-401.relays.mullvad.net:1080/#Australia%20Melbourne%20401
-socks5://au-mel-wg-socks5-402.relays.mullvad.net:1080/#Australia%20Melbourne%20402
 socks5://au-mel-wg-socks5-403.relays.mullvad.net:1080/#Australia%20Melbourne%20403
 socks5://au-per-wg-socks5-301.relays.mullvad.net:1080/#Australia%20Perth%20301
 socks5://au-per-wg-socks5-302.relays.mullvad.net:1080/#Australia%20Perth%20302
