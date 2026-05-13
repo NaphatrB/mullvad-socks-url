@@ -188,7 +188,6 @@ socks5://gb-mnc-wg-socks5-201.relays.mullvad.net:1080/#UK%20Manchester%20201
 socks5://gb-mnc-wg-socks5-202.relays.mullvad.net:1080/#UK%20Manchester%20202
 socks5://gr-ath-wg-socks5-101.relays.mullvad.net:1080/#Greece%20Athens%20101
 socks5://gr-ath-wg-socks5-102.relays.mullvad.net:1080/#Greece%20Athens%20102
-socks5://hk-hkg-wg-socks5-201.relays.mullvad.net:1080/#Hong%20Kong%20Hong%20Kong%20201
 socks5://hk-hkg-wg-socks5-301.relays.mullvad.net:1080/#Hong%20Kong%20Hong%20Kong%20301
 socks5://hk-hkg-wg-socks5-302.relays.mullvad.net:1080/#Hong%20Kong%20Hong%20Kong%20302
 socks5://hk-hkg-wg-socks5-303.relays.mullvad.net:1080/#Hong%20Kong%20Hong%20Kong%20303
