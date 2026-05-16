@@ -188,6 +188,7 @@ socks5://gb-mnc-wg-socks5-201.relays.mullvad.net:1080/#UK%20Manchester%20201
 socks5://gb-mnc-wg-socks5-202.relays.mullvad.net:1080/#UK%20Manchester%20202
 socks5://gr-ath-wg-socks5-101.relays.mullvad.net:1080/#Greece%20Athens%20101
 socks5://gr-ath-wg-socks5-102.relays.mullvad.net:1080/#Greece%20Athens%20102
+socks5://hk-hkg-wg-socks5-201.relays.mullvad.net:1080/#Hong%20Kong%20Hong%20Kong%20201
 socks5://hk-hkg-wg-socks5-301.relays.mullvad.net:1080/#Hong%20Kong%20Hong%20Kong%20301
 socks5://hk-hkg-wg-socks5-302.relays.mullvad.net:1080/#Hong%20Kong%20Hong%20Kong%20302
 socks5://hk-hkg-wg-socks5-303.relays.mullvad.net:1080/#Hong%20Kong%20Hong%20Kong%20303
@@ -221,10 +222,6 @@ socks5://jp-tyo-wg-socks5-002.relays.mullvad.net:1080/#Japan%20Tokyo%20002
 socks5://jp-tyo-wg-socks5-201.relays.mullvad.net:1080/#Japan%20Tokyo%20201
 socks5://jp-tyo-wg-socks5-202.relays.mullvad.net:1080/#Japan%20Tokyo%20202
 socks5://jp-tyo-wg-socks5-203.relays.mullvad.net:1080/#Japan%20Tokyo%20203
-socks5://mx-qro-wg-socks5-001.relays.mullvad.net:1080/#Mexico%20Queretaro%20001
-socks5://mx-qro-wg-socks5-002.relays.mullvad.net:1080/#Mexico%20Queretaro%20002
-socks5://mx-qro-wg-socks5-003.relays.mullvad.net:1080/#Mexico%20Queretaro%20003
-socks5://mx-qro-wg-socks5-004.relays.mullvad.net:1080/#Mexico%20Queretaro%20004
 socks5://my-kul-wg-socks5-001.relays.mullvad.net:1080/#Malaysia%20Kuala%20Lumpur%20001
 socks5://my-kul-wg-socks5-002.relays.mullvad.net:1080/#Malaysia%20Kuala%20Lumpur%20002
 socks5://ng-los-wg-socks5-001.relays.mullvad.net:1080/#Nigeria%20Lagos%20001
