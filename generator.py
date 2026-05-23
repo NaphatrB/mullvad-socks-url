@@ -27,7 +27,7 @@ for host in r:
         hostname = host['hostname']
         numbers = number_pattern.findall(hostname)
         number = numbers[-1] if numbers else hostname
-        custom_name = f"{host['country_name']} {host['city_name']} {number}"
+        custom_name = f"{host['location']['country']} {host['location']['city']} {number}"
         custom_name_encoded = urllib.parse.quote(custom_name)
         socks5_url = f"socks5://{hostname}:1080/#{custom_name_encoded}"
         socks5_urls.append(socks5_url)
