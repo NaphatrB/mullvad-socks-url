@@ -18,6 +18,7 @@ except requests.RequestException as e:
 
 # Create SOCKS5 URLs using hostname and custom name
 socks5_urls = []
+domains = []
 
 # Regular expression to extract numeric part from hostname (e.g., '003' from 'al-tia-wg-socks5-003')
 number_pattern = re.compile(r'\d+')
@@ -31,6 +32,7 @@ for host in r:
         custom_name_encoded = urllib.parse.quote(custom_name)
         socks5_url = f"socks5://{hostname}:1080/#{custom_name_encoded}"
         socks5_urls.append(socks5_url)
+        domains.append(hostname)
 
 # Save SOCKS5 URLs to a text file in the result folder
 output_path = os.path.join(output_dir, 'mullvad_socks5_urls.txt')
@@ -40,4 +42,14 @@ try:
             f.write(url + "\n")
 except IOError as e:
     print(f"Error writing output file: {e}")
+    exit(1)
+
+# Save domains to a text file in the result folder
+domains_path = os.path.join(output_dir, 'mullvad_socks5_domains.txt')
+try:
+    with open(domains_path, 'w') as f:
+        for domain in domains:
+            f.write(domain + "\n")
+except IOError as e:
+    print(f"Error writing domains file: {e}")
     exit(1)
