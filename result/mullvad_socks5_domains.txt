@@ -130,6 +130,7 @@ dk-cph-wg-socks5-002.relays.mullvad.net
 dk-cph-wg-socks5-102.relays.mullvad.net
 dk-cph-wg-socks5-401.relays.mullvad.net
 dk-cph-wg-socks5-402.relays.mullvad.net
+ee-tll-wg-socks5-001.relays.mullvad.net
 ee-tll-wg-socks5-002.relays.mullvad.net
 ee-tll-wg-socks5-003.relays.mullvad.net
 es-bcn-wg-socks5-001.relays.mullvad.net
