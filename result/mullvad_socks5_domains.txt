@@ -1,5 +1,5 @@
 al-tia-wg-socks5-001.relays.mullvad.net
-al-tia-wg-socks5-003.relays.mullvad.net
+al-tia-wg-socks5-004.relays.mullvad.net
 ar-bue-wg-socks5-001.relays.mullvad.net
 ar-bue-wg-socks5-002.relays.mullvad.net
 at-vie-wg-socks5-001.relays.mullvad.net
@@ -148,6 +148,9 @@ fi-hel-wg-socks5-101.relays.mullvad.net
 fi-hel-wg-socks5-102.relays.mullvad.net
 fi-hel-wg-socks5-103.relays.mullvad.net
 fi-hel-wg-socks5-104.relays.mullvad.net
+fi-hel-wg-socks5-201.relays.mullvad.net
+fi-hel-wg-socks5-202.relays.mullvad.net
+fi-hel-wg-socks5-203.relays.mullvad.net
 fr-bod-wg-socks5-001.relays.mullvad.net
 fr-bod-wg-socks5-002.relays.mullvad.net
 fr-mrs-wg-socks5-001.relays.mullvad.net
@@ -158,6 +161,8 @@ fr-par-wg-socks5-003.relays.mullvad.net
 fr-par-wg-socks5-004.relays.mullvad.net
 fr-par-wg-socks5-006.relays.mullvad.net
 fr-par-wg-socks5-007.relays.mullvad.net
+fr-par-wg-socks5-101.relays.mullvad.net
+fr-par-wg-socks5-103.relays.mullvad.net
 fr-par-wg-socks5-301.relays.mullvad.net
 fr-par-wg-socks5-302.relays.mullvad.net
 gb-glw-wg-socks5-001.relays.mullvad.net
