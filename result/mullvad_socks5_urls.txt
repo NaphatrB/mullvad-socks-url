@@ -4,6 +4,7 @@ socks5://ar-bue-wg-socks5-001.relays.mullvad.net:1080/#Argentina%20Buenos%20Aire
 socks5://ar-bue-wg-socks5-002.relays.mullvad.net:1080/#Argentina%20Buenos%20Aires%20002
 socks5://at-vie-wg-socks5-001.relays.mullvad.net:1080/#Austria%20Vienna%20001
 socks5://at-vie-wg-socks5-002.relays.mullvad.net:1080/#Austria%20Vienna%20002
+socks5://at-vie-wg-socks5-003.relays.mullvad.net:1080/#Austria%20Vienna%20003
 socks5://at-vie-wg-socks5-101.relays.mullvad.net:1080/#Austria%20Vienna%20101
 socks5://at-vie-wg-socks5-102.relays.mullvad.net:1080/#Austria%20Vienna%20102
 socks5://au-adl-wg-socks5-301.relays.mullvad.net:1080/#Australia%20Adelaide%20301
@@ -72,9 +73,6 @@ socks5://ca-yyc-wg-socks5-202.relays.mullvad.net:1080/#Canada%20Calgary%20202
 socks5://ch-zrh-wg-socks5-001.relays.mullvad.net:1080/#Switzerland%20Zurich%20001
 socks5://ch-zrh-wg-socks5-002.relays.mullvad.net:1080/#Switzerland%20Zurich%20002
 socks5://ch-zrh-wg-socks5-003.relays.mullvad.net:1080/#Switzerland%20Zurich%20003
-socks5://ch-zrh-wg-socks5-004.relays.mullvad.net:1080/#Switzerland%20Zurich%20004
-socks5://ch-zrh-wg-socks5-005.relays.mullvad.net:1080/#Switzerland%20Zurich%20005
-socks5://ch-zrh-wg-socks5-006.relays.mullvad.net:1080/#Switzerland%20Zurich%20006
 socks5://ch-zrh-wg-socks5-201.relays.mullvad.net:1080/#Switzerland%20Zurich%20201
 socks5://ch-zrh-wg-socks5-202.relays.mullvad.net:1080/#Switzerland%20Zurich%20202
 socks5://ch-zrh-wg-socks5-401.relays.mullvad.net:1080/#Switzerland%20Zurich%20401
@@ -174,7 +172,6 @@ socks5://gb-lon-wg-socks5-004.relays.mullvad.net:1080/#UK%20London%20004
 socks5://gb-lon-wg-socks5-005.relays.mullvad.net:1080/#UK%20London%20005
 socks5://gb-lon-wg-socks5-006.relays.mullvad.net:1080/#UK%20London%20006
 socks5://gb-lon-wg-socks5-007.relays.mullvad.net:1080/#UK%20London%20007
-socks5://gb-lon-wg-socks5-008.relays.mullvad.net:1080/#UK%20London%20008
 socks5://gb-lon-wg-socks5-201.relays.mullvad.net:1080/#UK%20London%20201
 socks5://gb-lon-wg-socks5-202.relays.mullvad.net:1080/#UK%20London%20202
 socks5://gb-lon-wg-socks5-203.relays.mullvad.net:1080/#UK%20London%20203
@@ -217,7 +214,6 @@ socks5://jp-osa-wg-socks5-001.relays.mullvad.net:1080/#Japan%20Osaka%20001
 socks5://jp-osa-wg-socks5-002.relays.mullvad.net:1080/#Japan%20Osaka%20002
 socks5://jp-osa-wg-socks5-003.relays.mullvad.net:1080/#Japan%20Osaka%20003
 socks5://jp-osa-wg-socks5-004.relays.mullvad.net:1080/#Japan%20Osaka%20004
-socks5://jp-tyo-wg-socks5-001.relays.mullvad.net:1080/#Japan%20Tokyo%20001
 socks5://jp-tyo-wg-socks5-002.relays.mullvad.net:1080/#Japan%20Tokyo%20002
 socks5://jp-tyo-wg-socks5-201.relays.mullvad.net:1080/#Japan%20Tokyo%20201
 socks5://jp-tyo-wg-socks5-202.relays.mullvad.net:1080/#Japan%20Tokyo%20202
@@ -230,7 +226,6 @@ socks5://my-kul-wg-socks5-001.relays.mullvad.net:1080/#Malaysia%20Kuala%20Lumpur
 socks5://my-kul-wg-socks5-002.relays.mullvad.net:1080/#Malaysia%20Kuala%20Lumpur%20002
 socks5://ng-los-wg-socks5-001.relays.mullvad.net:1080/#Nigeria%20Lagos%20001
 socks5://ng-los-wg-socks5-002.relays.mullvad.net:1080/#Nigeria%20Lagos%20002
-socks5://nl-ams-wg-socks5-001.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20001
 socks5://nl-ams-wg-socks5-002.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20002
 socks5://nl-ams-wg-socks5-003.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20003
 socks5://nl-ams-wg-socks5-004.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20004
