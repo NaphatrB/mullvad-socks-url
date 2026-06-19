@@ -73,6 +73,8 @@ socks5://ca-yyc-wg-socks5-202.relays.mullvad.net:1080/#Canada%20Calgary%20202
 socks5://ch-zrh-wg-socks5-001.relays.mullvad.net:1080/#Switzerland%20Zurich%20001
 socks5://ch-zrh-wg-socks5-002.relays.mullvad.net:1080/#Switzerland%20Zurich%20002
 socks5://ch-zrh-wg-socks5-003.relays.mullvad.net:1080/#Switzerland%20Zurich%20003
+socks5://ch-zrh-wg-socks5-005.relays.mullvad.net:1080/#Switzerland%20Zurich%20005
+socks5://ch-zrh-wg-socks5-006.relays.mullvad.net:1080/#Switzerland%20Zurich%20006
 socks5://ch-zrh-wg-socks5-201.relays.mullvad.net:1080/#Switzerland%20Zurich%20201
 socks5://ch-zrh-wg-socks5-202.relays.mullvad.net:1080/#Switzerland%20Zurich%20202
 socks5://ch-zrh-wg-socks5-401.relays.mullvad.net:1080/#Switzerland%20Zurich%20401
@@ -172,6 +174,7 @@ socks5://gb-lon-wg-socks5-004.relays.mullvad.net:1080/#UK%20London%20004
 socks5://gb-lon-wg-socks5-005.relays.mullvad.net:1080/#UK%20London%20005
 socks5://gb-lon-wg-socks5-006.relays.mullvad.net:1080/#UK%20London%20006
 socks5://gb-lon-wg-socks5-007.relays.mullvad.net:1080/#UK%20London%20007
+socks5://gb-lon-wg-socks5-008.relays.mullvad.net:1080/#UK%20London%20008
 socks5://gb-lon-wg-socks5-201.relays.mullvad.net:1080/#UK%20London%20201
 socks5://gb-lon-wg-socks5-202.relays.mullvad.net:1080/#UK%20London%20202
 socks5://gb-lon-wg-socks5-203.relays.mullvad.net:1080/#UK%20London%20203
@@ -214,6 +217,7 @@ socks5://jp-osa-wg-socks5-001.relays.mullvad.net:1080/#Japan%20Osaka%20001
 socks5://jp-osa-wg-socks5-002.relays.mullvad.net:1080/#Japan%20Osaka%20002
 socks5://jp-osa-wg-socks5-003.relays.mullvad.net:1080/#Japan%20Osaka%20003
 socks5://jp-osa-wg-socks5-004.relays.mullvad.net:1080/#Japan%20Osaka%20004
+socks5://jp-tyo-wg-socks5-001.relays.mullvad.net:1080/#Japan%20Tokyo%20001
 socks5://jp-tyo-wg-socks5-002.relays.mullvad.net:1080/#Japan%20Tokyo%20002
 socks5://jp-tyo-wg-socks5-201.relays.mullvad.net:1080/#Japan%20Tokyo%20201
 socks5://jp-tyo-wg-socks5-202.relays.mullvad.net:1080/#Japan%20Tokyo%20202
@@ -226,6 +230,7 @@ socks5://my-kul-wg-socks5-001.relays.mullvad.net:1080/#Malaysia%20Kuala%20Lumpur
 socks5://my-kul-wg-socks5-002.relays.mullvad.net:1080/#Malaysia%20Kuala%20Lumpur%20002
 socks5://ng-los-wg-socks5-001.relays.mullvad.net:1080/#Nigeria%20Lagos%20001
 socks5://ng-los-wg-socks5-002.relays.mullvad.net:1080/#Nigeria%20Lagos%20002
+socks5://nl-ams-wg-socks5-001.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20001
 socks5://nl-ams-wg-socks5-002.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20002
 socks5://nl-ams-wg-socks5-003.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20003
 socks5://nl-ams-wg-socks5-004.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20004
@@ -285,7 +290,7 @@ socks5://se-mma-wg-socks5-005.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20005
 socks5://se-mma-wg-socks5-011.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20011
 socks5://se-mma-wg-socks5-012.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20012
 socks5://se-mma-wg-socks5-102.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20102
-socks5://se-mma-wg-socks5-112.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20112
+socks5://se-mma-wg-socks5-111.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20111
 socks5://se-sto-wg-socks5-001.relays.mullvad.net:1080/#Sweden%20Stockholm%20001
 socks5://se-sto-wg-socks5-002.relays.mullvad.net:1080/#Sweden%20Stockholm%20002
 socks5://se-sto-wg-socks5-003.relays.mullvad.net:1080/#Sweden%20Stockholm%20003
@@ -360,7 +365,6 @@ socks5://us-dal-wg-socks5-401.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%2040
 socks5://us-dal-wg-socks5-402.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20402
 socks5://us-dal-wg-socks5-403.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20403
 socks5://us-dal-wg-socks5-601.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20601
-socks5://us-dal-wg-socks5-602.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20602
 socks5://us-dal-wg-socks5-603.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20603
 socks5://us-dal-wg-socks5-604.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20604
 socks5://us-dal-wg-socks5-701.relays.mullvad.net:1080/#USA%20Dallas%2C%20TX%20701
@@ -513,6 +517,7 @@ socks5://us-sjc-wg-socks5-505.relays.mullvad.net:1080/#USA%20San%20Jose%2C%20CA%
 socks5://us-sjc-wg-socks5-506.relays.mullvad.net:1080/#USA%20San%20Jose%2C%20CA%20506
 socks5://us-sjc-wg-socks5-507.relays.mullvad.net:1080/#USA%20San%20Jose%2C%20CA%20507
 socks5://us-sjc-wg-socks5-508.relays.mullvad.net:1080/#USA%20San%20Jose%2C%20CA%20508
+socks5://us-slc-wg-socks5-301.relays.mullvad.net:1080/#USA%20Salt%20Lake%20City%2C%20UT%20301
 socks5://us-slc-wg-socks5-302.relays.mullvad.net:1080/#USA%20Salt%20Lake%20City%2C%20UT%20302
 socks5://us-slc-wg-socks5-303.relays.mullvad.net:1080/#USA%20Salt%20Lake%20City%2C%20UT%20303
 socks5://us-slc-wg-socks5-304.relays.mullvad.net:1080/#USA%20Salt%20Lake%20City%2C%20UT%20304

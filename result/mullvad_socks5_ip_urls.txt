@@ -73,6 +73,8 @@ socks5://10.124.0.178:1080/#Canada%20Calgary%20202
 socks5://10.124.0.121:1080/#Switzerland%20Zurich%20001
 socks5://10.124.0.122:1080/#Switzerland%20Zurich%20002
 socks5://10.124.0.123:1080/#Switzerland%20Zurich%20003
+socks5://10.124.0.125:1080/#Switzerland%20Zurich%20005
+socks5://10.124.0.241:1080/#Switzerland%20Zurich%20006
 socks5://10.124.0.105:1080/#Switzerland%20Zurich%20201
 socks5://10.124.0.106:1080/#Switzerland%20Zurich%20202
 socks5://10.124.1.213:1080/#Switzerland%20Zurich%20401
@@ -172,6 +174,7 @@ socks5://10.124.1.17:1080/#UK%20London%20004
 socks5://10.124.1.18:1080/#UK%20London%20005
 socks5://10.124.1.19:1080/#UK%20London%20006
 socks5://10.124.1.28:1080/#UK%20London%20007
+socks5://10.124.1.62:1080/#UK%20London%20008
 socks5://10.124.1.34:1080/#UK%20London%20201
 socks5://10.124.1.35:1080/#UK%20London%20202
 socks5://10.124.1.91:1080/#UK%20London%20203
@@ -214,6 +217,7 @@ socks5://10.124.1.177:1080/#Japan%20Osaka%20001
 socks5://10.124.1.178:1080/#Japan%20Osaka%20002
 socks5://10.124.1.179:1080/#Japan%20Osaka%20003
 socks5://10.124.1.180:1080/#Japan%20Osaka%20004
+socks5://10.124.1.218:1080/#Japan%20Tokyo%20001
 socks5://10.124.1.217:1080/#Japan%20Tokyo%20002
 socks5://10.124.0.107:1080/#Japan%20Tokyo%20201
 socks5://10.124.0.160:1080/#Japan%20Tokyo%20202
@@ -226,6 +230,7 @@ socks5://10.124.1.39:1080/#Malaysia%20Kuala%20Lumpur%20001
 socks5://10.124.1.40:1080/#Malaysia%20Kuala%20Lumpur%20002
 socks5://10.124.0.97:1080/#Nigeria%20Lagos%20001
 socks5://10.124.0.98:1080/#Nigeria%20Lagos%20002
+socks5://10.124.0.4:1080/#Netherlands%20Amsterdam%20001
 socks5://10.124.0.39:1080/#Netherlands%20Amsterdam%20002
 socks5://10.124.0.40:1080/#Netherlands%20Amsterdam%20003
 socks5://10.124.0.113:1080/#Netherlands%20Amsterdam%20004
@@ -285,7 +290,7 @@ socks5://10.124.0.185:1080/#Sweden%20Malm%C3%B6%20005
 socks5://10.124.0.18:1080/#Sweden%20Malm%C3%B6%20011
 socks5://10.124.0.38:1080/#Sweden%20Malm%C3%B6%20012
 socks5://10.124.0.190:1080/#Sweden%20Malm%C3%B6%20102
-socks5://10.124.1.77:1080/#Sweden%20Malm%C3%B6%20112
+socks5://10.124.1.80:1080/#Sweden%20Malm%C3%B6%20111
 socks5://10.124.1.184:1080/#Sweden%20Stockholm%20001
 socks5://10.124.0.11:1080/#Sweden%20Stockholm%20002
 socks5://10.124.2.48:1080/#Sweden%20Stockholm%20003
@@ -360,7 +365,6 @@ socks5://10.124.1.226:1080/#USA%20Dallas%2C%20TX%20401
 socks5://10.124.1.225:1080/#USA%20Dallas%2C%20TX%20402
 socks5://10.124.1.224:1080/#USA%20Dallas%2C%20TX%20403
 socks5://10.124.1.171:1080/#USA%20Dallas%2C%20TX%20601
-socks5://10.124.1.172:1080/#USA%20Dallas%2C%20TX%20602
 socks5://10.124.1.173:1080/#USA%20Dallas%2C%20TX%20603
 socks5://10.124.1.174:1080/#USA%20Dallas%2C%20TX%20604
 socks5://10.124.2.88:1080/#USA%20Dallas%2C%20TX%20701
@@ -513,6 +517,7 @@ socks5://10.124.1.158:1080/#USA%20San%20Jose%2C%20CA%20505
 socks5://10.124.1.159:1080/#USA%20San%20Jose%2C%20CA%20506
 socks5://10.124.1.160:1080/#USA%20San%20Jose%2C%20CA%20507
 socks5://10.124.1.161:1080/#USA%20San%20Jose%2C%20CA%20508
+socks5://10.124.1.138:1080/#USA%20Salt%20Lake%20City%2C%20UT%20301
 socks5://10.124.1.139:1080/#USA%20Salt%20Lake%20City%2C%20UT%20302
 socks5://10.124.1.140:1080/#USA%20Salt%20Lake%20City%2C%20UT%20303
 socks5://10.124.1.141:1080/#USA%20Salt%20Lake%20City%2C%20UT%20304
