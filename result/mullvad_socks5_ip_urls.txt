@@ -14,7 +14,6 @@ socks5://10.124.0.220:1080/#Australia%20Brisbane%20301
 socks5://10.124.0.221:1080/#Australia%20Brisbane%20302
 socks5://10.124.0.69:1080/#Australia%20Brisbane%20303
 socks5://10.124.1.53:1080/#Australia%20Melbourne%20401
-socks5://10.124.1.59:1080/#Australia%20Melbourne%20402
 socks5://10.124.2.107:1080/#Australia%20Melbourne%20403
 socks5://10.124.1.55:1080/#Australia%20Perth%20301
 socks5://10.124.1.57:1080/#Australia%20Perth%20302
@@ -81,7 +80,6 @@ socks5://10.124.1.213:1080/#Switzerland%20Zurich%20401
 socks5://10.124.1.214:1080/#Switzerland%20Zurich%20402
 socks5://10.124.1.216:1080/#Switzerland%20Zurich%20404
 socks5://10.124.0.176:1080/#Switzerland%20Zurich%20502
-socks5://10.124.0.177:1080/#Switzerland%20Zurich%20503
 socks5://10.124.0.180:1080/#Switzerland%20Zurich%20504
 socks5://10.124.1.20:1080/#Chile%20Santiago%20001
 socks5://10.124.1.21:1080/#Chile%20Santiago%20002

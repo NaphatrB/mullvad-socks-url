@@ -14,7 +14,6 @@ au-bne-wg-socks5-301.relays.mullvad.net
 au-bne-wg-socks5-302.relays.mullvad.net
 au-bne-wg-socks5-303.relays.mullvad.net
 au-mel-wg-socks5-401.relays.mullvad.net
-au-mel-wg-socks5-402.relays.mullvad.net
 au-mel-wg-socks5-403.relays.mullvad.net
 au-per-wg-socks5-301.relays.mullvad.net
 au-per-wg-socks5-302.relays.mullvad.net
@@ -81,7 +80,6 @@ ch-zrh-wg-socks5-401.relays.mullvad.net
 ch-zrh-wg-socks5-402.relays.mullvad.net
 ch-zrh-wg-socks5-404.relays.mullvad.net
 ch-zrh-wg-socks5-502.relays.mullvad.net
-ch-zrh-wg-socks5-503.relays.mullvad.net
 ch-zrh-wg-socks5-504.relays.mullvad.net
 cl-scl-wg-socks5-001.relays.mullvad.net
 cl-scl-wg-socks5-002.relays.mullvad.net
