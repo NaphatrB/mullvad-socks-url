@@ -288,7 +288,9 @@ se-mma-wg-socks5-005.relays.mullvad.net
 se-mma-wg-socks5-011.relays.mullvad.net
 se-mma-wg-socks5-012.relays.mullvad.net
 se-mma-wg-socks5-102.relays.mullvad.net
+se-mma-wg-socks5-103.relays.mullvad.net
 se-mma-wg-socks5-111.relays.mullvad.net
+se-mma-wg-socks5-112.relays.mullvad.net
 se-sto-wg-socks5-001.relays.mullvad.net
 se-sto-wg-socks5-002.relays.mullvad.net
 se-sto-wg-socks5-003.relays.mullvad.net
