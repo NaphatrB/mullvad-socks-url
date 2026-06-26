@@ -421,6 +421,7 @@ socks5://us-lax-wg-socks5-702.relays.mullvad.net:1080/#USA%20Los%20Angeles%2C%20
 socks5://us-lax-wg-socks5-703.relays.mullvad.net:1080/#USA%20Los%20Angeles%2C%20CA%20703
 socks5://us-lax-wg-socks5-704.relays.mullvad.net:1080/#USA%20Los%20Angeles%2C%20CA%20704
 socks5://us-mia-wg-socks5-001.relays.mullvad.net:1080/#USA%20Miami%2C%20FL%20001
+socks5://us-mia-wg-socks5-002.relays.mullvad.net:1080/#USA%20Miami%2C%20FL%20002
 socks5://us-mia-wg-socks5-003.relays.mullvad.net:1080/#USA%20Miami%2C%20FL%20003
 socks5://us-mkc-wg-socks5-001.relays.mullvad.net:1080/#USA%20Kansas%20City%2C%20MO%20001
 socks5://us-mkc-wg-socks5-002.relays.mullvad.net:1080/#USA%20Kansas%20City%2C%20MO%20002

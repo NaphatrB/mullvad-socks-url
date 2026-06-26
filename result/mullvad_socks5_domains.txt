@@ -421,6 +421,7 @@ us-lax-wg-socks5-702.relays.mullvad.net
 us-lax-wg-socks5-703.relays.mullvad.net
 us-lax-wg-socks5-704.relays.mullvad.net
 us-mia-wg-socks5-001.relays.mullvad.net
+us-mia-wg-socks5-002.relays.mullvad.net
 us-mia-wg-socks5-003.relays.mullvad.net
 us-mkc-wg-socks5-001.relays.mullvad.net
 us-mkc-wg-socks5-002.relays.mullvad.net
