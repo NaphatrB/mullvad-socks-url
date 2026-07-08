@@ -90,12 +90,11 @@ cz-prg-wg-socks5-101.relays.mullvad.net
 cz-prg-wg-socks5-102.relays.mullvad.net
 cz-prg-wg-socks5-201.relays.mullvad.net
 cz-prg-wg-socks5-202.relays.mullvad.net
-de-ber-wg-socks5-001.relays.mullvad.net
-de-ber-wg-socks5-002.relays.mullvad.net
 de-ber-wg-socks5-003.relays.mullvad.net
 de-ber-wg-socks5-004.relays.mullvad.net
 de-ber-wg-socks5-005.relays.mullvad.net
 de-ber-wg-socks5-006.relays.mullvad.net
+de-ber-wg-socks5-007.relays.mullvad.net
 de-ber-wg-socks5-008.relays.mullvad.net
 de-dus-wg-socks5-001.relays.mullvad.net
 de-dus-wg-socks5-002.relays.mullvad.net
@@ -177,6 +176,8 @@ gb-lon-wg-socks5-204.relays.mullvad.net
 gb-lon-wg-socks5-305.relays.mullvad.net
 gb-lon-wg-socks5-306.relays.mullvad.net
 gb-lon-wg-socks5-308.relays.mullvad.net
+gb-mnc-wg-socks5-001.relays.mullvad.net
+gb-mnc-wg-socks5-004.relays.mullvad.net
 gb-mnc-wg-socks5-201.relays.mullvad.net
 gb-mnc-wg-socks5-202.relays.mullvad.net
 gr-ath-wg-socks5-101.relays.mullvad.net

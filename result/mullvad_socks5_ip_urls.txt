@@ -90,12 +90,11 @@ socks5://10.124.2.33:1080/#Czech%20Republic%20Prague%20101
 socks5://10.124.2.34:1080/#Czech%20Republic%20Prague%20102
 socks5://10.124.2.57:1080/#Czech%20Republic%20Prague%20201
 socks5://10.124.2.58:1080/#Czech%20Republic%20Prague%20202
-socks5://10.124.0.7:1080/#Germany%20Berlin%20001
-socks5://10.124.0.8:1080/#Germany%20Berlin%20002
 socks5://10.124.0.9:1080/#Germany%20Berlin%20003
 socks5://10.124.0.55:1080/#Germany%20Berlin%20004
 socks5://10.124.0.179:1080/#Germany%20Berlin%20005
 socks5://10.124.0.196:1080/#Germany%20Berlin%20006
+socks5://10.124.0.239:1080/#Germany%20Berlin%20007
 socks5://10.124.0.101:1080/#Germany%20Berlin%20008
 socks5://10.124.0.30:1080/#Germany%20Dusseldorf%20001
 socks5://10.124.0.91:1080/#Germany%20Dusseldorf%20002
@@ -177,6 +176,8 @@ socks5://10.124.1.164:1080/#UK%20London%20204
 socks5://10.124.1.85:1080/#UK%20London%20305
 socks5://10.124.1.86:1080/#UK%20London%20306
 socks5://10.124.1.117:1080/#UK%20London%20308
+socks5://10.124.0.31:1080/#UK%20Manchester%20001
+socks5://10.124.0.88:1080/#UK%20Manchester%20004
 socks5://10.124.1.162:1080/#UK%20Manchester%20201
 socks5://10.124.1.163:1080/#UK%20Manchester%20202
 socks5://10.124.0.159:1080/#Greece%20Athens%20101

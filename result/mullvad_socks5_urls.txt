@@ -90,12 +90,11 @@ socks5://cz-prg-wg-socks5-101.relays.mullvad.net:1080/#Czech%20Republic%20Prague
 socks5://cz-prg-wg-socks5-102.relays.mullvad.net:1080/#Czech%20Republic%20Prague%20102
 socks5://cz-prg-wg-socks5-201.relays.mullvad.net:1080/#Czech%20Republic%20Prague%20201
 socks5://cz-prg-wg-socks5-202.relays.mullvad.net:1080/#Czech%20Republic%20Prague%20202
-socks5://de-ber-wg-socks5-001.relays.mullvad.net:1080/#Germany%20Berlin%20001
-socks5://de-ber-wg-socks5-002.relays.mullvad.net:1080/#Germany%20Berlin%20002
 socks5://de-ber-wg-socks5-003.relays.mullvad.net:1080/#Germany%20Berlin%20003
 socks5://de-ber-wg-socks5-004.relays.mullvad.net:1080/#Germany%20Berlin%20004
 socks5://de-ber-wg-socks5-005.relays.mullvad.net:1080/#Germany%20Berlin%20005
 socks5://de-ber-wg-socks5-006.relays.mullvad.net:1080/#Germany%20Berlin%20006
+socks5://de-ber-wg-socks5-007.relays.mullvad.net:1080/#Germany%20Berlin%20007
 socks5://de-ber-wg-socks5-008.relays.mullvad.net:1080/#Germany%20Berlin%20008
 socks5://de-dus-wg-socks5-001.relays.mullvad.net:1080/#Germany%20Dusseldorf%20001
 socks5://de-dus-wg-socks5-002.relays.mullvad.net:1080/#Germany%20Dusseldorf%20002
@@ -177,6 +176,8 @@ socks5://gb-lon-wg-socks5-204.relays.mullvad.net:1080/#UK%20London%20204
 socks5://gb-lon-wg-socks5-305.relays.mullvad.net:1080/#UK%20London%20305
 socks5://gb-lon-wg-socks5-306.relays.mullvad.net:1080/#UK%20London%20306
 socks5://gb-lon-wg-socks5-308.relays.mullvad.net:1080/#UK%20London%20308
+socks5://gb-mnc-wg-socks5-001.relays.mullvad.net:1080/#UK%20Manchester%20001
+socks5://gb-mnc-wg-socks5-004.relays.mullvad.net:1080/#UK%20Manchester%20004
 socks5://gb-mnc-wg-socks5-201.relays.mullvad.net:1080/#UK%20Manchester%20201
 socks5://gb-mnc-wg-socks5-202.relays.mullvad.net:1080/#UK%20Manchester%20202
 socks5://gr-ath-wg-socks5-101.relays.mullvad.net:1080/#Greece%20Athens%20101
