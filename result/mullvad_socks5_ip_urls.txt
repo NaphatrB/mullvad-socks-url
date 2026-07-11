@@ -121,7 +121,6 @@ socks5://10.124.1.250:1080/#Germany%20Frankfurt%20401
 socks5://10.124.1.251:1080/#Germany%20Frankfurt%20402
 socks5://10.124.1.252:1080/#Germany%20Frankfurt%20403
 socks5://10.124.0.64:1080/#Denmark%20Copenhagen%20001
-socks5://10.124.0.17:1080/#Denmark%20Copenhagen%20002
 socks5://10.124.2.91:1080/#Denmark%20Copenhagen%20102
 socks5://10.124.0.229:1080/#Denmark%20Copenhagen%20401
 socks5://10.124.0.230:1080/#Denmark%20Copenhagen%20402
