@@ -243,6 +243,9 @@ nl-ams-wg-socks5-103.relays.mullvad.net
 nl-ams-wg-socks5-201.relays.mullvad.net
 nl-ams-wg-socks5-202.relays.mullvad.net
 nl-ams-wg-socks5-203.relays.mullvad.net
+nl-ams-wg-socks5-301.relays.mullvad.net
+nl-ams-wg-socks5-302.relays.mullvad.net
+nl-ams-wg-socks5-303.relays.mullvad.net
 no-osl-wg-socks5-001.relays.mullvad.net
 no-osl-wg-socks5-002.relays.mullvad.net
 no-osl-wg-socks5-003.relays.mullvad.net
