@@ -216,6 +216,9 @@ jp-osa-wg-socks5-001.relays.mullvad.net
 jp-osa-wg-socks5-002.relays.mullvad.net
 jp-osa-wg-socks5-003.relays.mullvad.net
 jp-osa-wg-socks5-004.relays.mullvad.net
+jp-osa-wg-socks5-101.relays.mullvad.net
+jp-osa-wg-socks5-102.relays.mullvad.net
+jp-osa-wg-socks5-103.relays.mullvad.net
 jp-tyo-wg-socks5-001.relays.mullvad.net
 jp-tyo-wg-socks5-002.relays.mullvad.net
 jp-tyo-wg-socks5-201.relays.mullvad.net
@@ -281,7 +284,6 @@ se-got-wg-socks5-002.relays.mullvad.net
 se-got-wg-socks5-003.relays.mullvad.net
 se-got-wg-socks5-004.relays.mullvad.net
 se-got-wg-socks5-005.relays.mullvad.net
-se-got-wg-socks5-007.relays.mullvad.net
 se-got-wg-socks5-008.relays.mullvad.net
 se-got-wg-socks5-101.relays.mullvad.net
 se-mma-wg-socks5-001.relays.mullvad.net

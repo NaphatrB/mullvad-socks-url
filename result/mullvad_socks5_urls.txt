@@ -216,6 +216,9 @@ socks5://jp-osa-wg-socks5-001.relays.mullvad.net:1080/#Japan%20Osaka%20001
 socks5://jp-osa-wg-socks5-002.relays.mullvad.net:1080/#Japan%20Osaka%20002
 socks5://jp-osa-wg-socks5-003.relays.mullvad.net:1080/#Japan%20Osaka%20003
 socks5://jp-osa-wg-socks5-004.relays.mullvad.net:1080/#Japan%20Osaka%20004
+socks5://jp-osa-wg-socks5-101.relays.mullvad.net:1080/#Japan%20Osaka%20101
+socks5://jp-osa-wg-socks5-102.relays.mullvad.net:1080/#Japan%20Osaka%20102
+socks5://jp-osa-wg-socks5-103.relays.mullvad.net:1080/#Japan%20Osaka%20103
 socks5://jp-tyo-wg-socks5-001.relays.mullvad.net:1080/#Japan%20Tokyo%20001
 socks5://jp-tyo-wg-socks5-002.relays.mullvad.net:1080/#Japan%20Tokyo%20002
 socks5://jp-tyo-wg-socks5-201.relays.mullvad.net:1080/#Japan%20Tokyo%20201
@@ -281,7 +284,6 @@ socks5://se-got-wg-socks5-002.relays.mullvad.net:1080/#Sweden%20Gothenburg%20002
 socks5://se-got-wg-socks5-003.relays.mullvad.net:1080/#Sweden%20Gothenburg%20003
 socks5://se-got-wg-socks5-004.relays.mullvad.net:1080/#Sweden%20Gothenburg%20004
 socks5://se-got-wg-socks5-005.relays.mullvad.net:1080/#Sweden%20Gothenburg%20005
-socks5://se-got-wg-socks5-007.relays.mullvad.net:1080/#Sweden%20Gothenburg%20007
 socks5://se-got-wg-socks5-008.relays.mullvad.net:1080/#Sweden%20Gothenburg%20008
 socks5://se-got-wg-socks5-101.relays.mullvad.net:1080/#Sweden%20Gothenburg%20101
 socks5://se-mma-wg-socks5-001.relays.mullvad.net:1080/#Sweden%20Malm%C3%B6%20001
