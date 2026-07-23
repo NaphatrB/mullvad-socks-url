@@ -101,10 +101,6 @@ socks5://10.124.0.54:1080/#Germany%20Frankfurt%20002
 socks5://10.124.1.23:1080/#Germany%20Frankfurt%20003
 socks5://10.124.1.26:1080/#Germany%20Frankfurt%20004
 socks5://10.124.1.27:1080/#Germany%20Frankfurt%20005
-socks5://10.124.0.222:1080/#Germany%20Frankfurt%20006
-socks5://10.124.1.24:1080/#Germany%20Frankfurt%20007
-socks5://10.124.1.25:1080/#Germany%20Frankfurt%20008
-socks5://10.124.0.240:1080/#Germany%20Frankfurt%20009
 socks5://10.124.1.238:1080/#Germany%20Frankfurt%20101
 socks5://10.124.1.239:1080/#Germany%20Frankfurt%20102
 socks5://10.124.1.241:1080/#Germany%20Frankfurt%20103
