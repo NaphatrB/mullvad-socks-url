@@ -93,10 +93,11 @@ cz-prg-wg-socks5-201.relays.mullvad.net
 cz-prg-wg-socks5-202.relays.mullvad.net
 de-ber-wg-socks5-001.relays.mullvad.net
 de-ber-wg-socks5-002.relays.mullvad.net
+de-ber-wg-socks5-003.relays.mullvad.net
+de-ber-wg-socks5-004.relays.mullvad.net
 de-dus-wg-socks5-001.relays.mullvad.net
 de-dus-wg-socks5-002.relays.mullvad.net
 de-dus-wg-socks5-003.relays.mullvad.net
-de-fra-wg-socks5-001.relays.mullvad.net
 de-fra-wg-socks5-002.relays.mullvad.net
 de-fra-wg-socks5-003.relays.mullvad.net
 de-fra-wg-socks5-004.relays.mullvad.net
