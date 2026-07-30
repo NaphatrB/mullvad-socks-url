@@ -96,6 +96,7 @@ socks5://10.124.0.8:1080/#Germany%20Berlin%20002
 socks5://10.124.0.9:1080/#Germany%20Berlin%20003
 socks5://10.124.0.55:1080/#Germany%20Berlin%20004
 socks5://10.124.2.10:1080/#Germany%20Berlin%20101
+socks5://10.124.2.11:1080/#Germany%20Berlin%20102
 socks5://10.124.2.12:1080/#Germany%20Berlin%20103
 socks5://10.124.0.30:1080/#Germany%20Dusseldorf%20001
 socks5://10.124.0.91:1080/#Germany%20Dusseldorf%20002
