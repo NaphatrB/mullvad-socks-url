@@ -178,7 +178,6 @@ socks5://gb-mnc-wg-socks5-002.relays.mullvad.net:1080/#UK%20Manchester%20002
 socks5://gb-mnc-wg-socks5-003.relays.mullvad.net:1080/#UK%20Manchester%20003
 socks5://gb-mnc-wg-socks5-004.relays.mullvad.net:1080/#UK%20Manchester%20004
 socks5://gb-mnc-wg-socks5-201.relays.mullvad.net:1080/#UK%20Manchester%20201
-socks5://gb-mnc-wg-socks5-202.relays.mullvad.net:1080/#UK%20Manchester%20202
 socks5://gr-ath-wg-socks5-101.relays.mullvad.net:1080/#Greece%20Athens%20101
 socks5://gr-ath-wg-socks5-102.relays.mullvad.net:1080/#Greece%20Athens%20102
 socks5://hk-hkg-wg-socks5-201.relays.mullvad.net:1080/#Hong%20Kong%20Hong%20Kong%20201
@@ -244,6 +243,8 @@ socks5://nl-ams-wg-socks5-203.relays.mullvad.net:1080/#Netherlands%20Amsterdam%2
 socks5://nl-ams-wg-socks5-301.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20301
 socks5://nl-ams-wg-socks5-302.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20302
 socks5://nl-ams-wg-socks5-303.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20303
+socks5://nl-ams-wg-socks5-401.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20401
+socks5://nl-ams-wg-socks5-402.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20402
 socks5://no-osl-wg-socks5-001.relays.mullvad.net:1080/#Norway%20Oslo%20001
 socks5://no-osl-wg-socks5-002.relays.mullvad.net:1080/#Norway%20Oslo%20002
 socks5://no-osl-wg-socks5-003.relays.mullvad.net:1080/#Norway%20Oslo%20003
@@ -270,8 +271,9 @@ socks5://pt-lis-wg-socks5-201.relays.mullvad.net:1080/#Portugal%20Lisbon%20201
 socks5://pt-lis-wg-socks5-202.relays.mullvad.net:1080/#Portugal%20Lisbon%20202
 socks5://pt-lis-wg-socks5-301.relays.mullvad.net:1080/#Portugal%20Lisbon%20301
 socks5://pt-lis-wg-socks5-302.relays.mullvad.net:1080/#Portugal%20Lisbon%20302
-socks5://ro-buh-wg-socks5-001.relays.mullvad.net:1080/#Romania%20Bucharest%20001
-socks5://ro-buh-wg-socks5-002.relays.mullvad.net:1080/#Romania%20Bucharest%20002
+socks5://ro-buh-wg-socks5-011.relays.mullvad.net:1080/#Romania%20Bucharest%20011
+socks5://ro-buh-wg-socks5-012.relays.mullvad.net:1080/#Romania%20Bucharest%20012
+socks5://ro-buh-wg-socks5-013.relays.mullvad.net:1080/#Romania%20Bucharest%20013
 socks5://rs-beg-wg-socks5-101.relays.mullvad.net:1080/#Serbia%20Belgrade%20101
 socks5://rs-beg-wg-socks5-102.relays.mullvad.net:1080/#Serbia%20Belgrade%20102
 socks5://se-got-wg-socks5-001.relays.mullvad.net:1080/#Sweden%20Gothenburg%20001
