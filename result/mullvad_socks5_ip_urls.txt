@@ -132,6 +132,7 @@ socks5://10.124.1.69:1080/#Spain%20Barcelona%20101
 socks5://10.124.1.70:1080/#Spain%20Barcelona%20102
 socks5://10.124.1.223:1080/#Spain%20Madrid%20101
 socks5://10.124.1.222:1080/#Spain%20Madrid%20102
+socks5://10.124.2.8:1080/#Spain%20Madrid%20203
 socks5://10.124.1.12:1080/#Spain%20Madrid%20204
 socks5://10.124.1.13:1080/#Spain%20Madrid%20205
 socks5://10.124.1.2:1080/#Spain%20Valencia%20001
