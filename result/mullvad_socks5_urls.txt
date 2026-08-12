@@ -128,6 +128,9 @@ socks5://dk-cph-wg-socks5-402.relays.mullvad.net:1080/#Denmark%20Copenhagen%2040
 socks5://ee-tll-wg-socks5-001.relays.mullvad.net:1080/#Estonia%20Tallinn%20001
 socks5://ee-tll-wg-socks5-002.relays.mullvad.net:1080/#Estonia%20Tallinn%20002
 socks5://ee-tll-wg-socks5-003.relays.mullvad.net:1080/#Estonia%20Tallinn%20003
+socks5://ee-tll-wg-socks5-101.relays.mullvad.net:1080/#Estonia%20Tallinn%20101
+socks5://ee-tll-wg-socks5-102.relays.mullvad.net:1080/#Estonia%20Tallinn%20102
+socks5://ee-tll-wg-socks5-103.relays.mullvad.net:1080/#Estonia%20Tallinn%20103
 socks5://es-bcn-wg-socks5-001.relays.mullvad.net:1080/#Spain%20Barcelona%20001
 socks5://es-bcn-wg-socks5-002.relays.mullvad.net:1080/#Spain%20Barcelona%20002
 socks5://es-bcn-wg-socks5-101.relays.mullvad.net:1080/#Spain%20Barcelona%20101
@@ -174,8 +177,6 @@ socks5://gb-lon-wg-socks5-005.relays.mullvad.net:1080/#UK%20London%20005
 socks5://gb-lon-wg-socks5-006.relays.mullvad.net:1080/#UK%20London%20006
 socks5://gb-lon-wg-socks5-007.relays.mullvad.net:1080/#UK%20London%20007
 socks5://gb-lon-wg-socks5-008.relays.mullvad.net:1080/#UK%20London%20008
-socks5://gb-lon-wg-socks5-201.relays.mullvad.net:1080/#UK%20London%20201
-socks5://gb-lon-wg-socks5-202.relays.mullvad.net:1080/#UK%20London%20202
 socks5://gb-lon-wg-socks5-203.relays.mullvad.net:1080/#UK%20London%20203
 socks5://gb-lon-wg-socks5-204.relays.mullvad.net:1080/#UK%20London%20204
 socks5://gb-lon-wg-socks5-305.relays.mullvad.net:1080/#UK%20London%20305
