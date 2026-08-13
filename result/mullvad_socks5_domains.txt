@@ -1,4 +1,5 @@
 al-tia-wg-socks5-001.relays.mullvad.net
+al-tia-wg-socks5-002.relays.mullvad.net
 al-tia-wg-socks5-003.relays.mullvad.net
 al-tia-wg-socks5-004.relays.mullvad.net
 ar-bue-wg-socks5-001.relays.mullvad.net
