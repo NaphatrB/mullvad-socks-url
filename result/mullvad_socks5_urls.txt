@@ -81,6 +81,7 @@ socks5://ch-zrh-wg-socks5-202.relays.mullvad.net:1080/#Switzerland%20Zurich%2020
 socks5://ch-zrh-wg-socks5-401.relays.mullvad.net:1080/#Switzerland%20Zurich%20401
 socks5://ch-zrh-wg-socks5-402.relays.mullvad.net:1080/#Switzerland%20Zurich%20402
 socks5://ch-zrh-wg-socks5-404.relays.mullvad.net:1080/#Switzerland%20Zurich%20404
+socks5://ch-zrh-wg-socks5-501.relays.mullvad.net:1080/#Switzerland%20Zurich%20501
 socks5://ch-zrh-wg-socks5-502.relays.mullvad.net:1080/#Switzerland%20Zurich%20502
 socks5://ch-zrh-wg-socks5-503.relays.mullvad.net:1080/#Switzerland%20Zurich%20503
 socks5://ch-zrh-wg-socks5-504.relays.mullvad.net:1080/#Switzerland%20Zurich%20504
@@ -178,6 +179,9 @@ socks5://gb-lon-wg-socks5-005.relays.mullvad.net:1080/#UK%20London%20005
 socks5://gb-lon-wg-socks5-006.relays.mullvad.net:1080/#UK%20London%20006
 socks5://gb-lon-wg-socks5-007.relays.mullvad.net:1080/#UK%20London%20007
 socks5://gb-lon-wg-socks5-008.relays.mullvad.net:1080/#UK%20London%20008
+socks5://gb-lon-wg-socks5-101.relays.mullvad.net:1080/#UK%20London%20101
+socks5://gb-lon-wg-socks5-102.relays.mullvad.net:1080/#UK%20London%20102
+socks5://gb-lon-wg-socks5-103.relays.mullvad.net:1080/#UK%20London%20103
 socks5://gb-lon-wg-socks5-203.relays.mullvad.net:1080/#UK%20London%20203
 socks5://gb-lon-wg-socks5-204.relays.mullvad.net:1080/#UK%20London%20204
 socks5://gb-lon-wg-socks5-305.relays.mullvad.net:1080/#UK%20London%20305
@@ -216,10 +220,6 @@ socks5://it-mil-wg-socks5-201.relays.mullvad.net:1080/#Italy%20Milan%20201
 socks5://it-mil-wg-socks5-202.relays.mullvad.net:1080/#Italy%20Milan%20202
 socks5://it-pmo-wg-socks5-001.relays.mullvad.net:1080/#Italy%20Palermo%20001
 socks5://it-pmo-wg-socks5-002.relays.mullvad.net:1080/#Italy%20Palermo%20002
-socks5://jp-osa-wg-socks5-001.relays.mullvad.net:1080/#Japan%20Osaka%20001
-socks5://jp-osa-wg-socks5-002.relays.mullvad.net:1080/#Japan%20Osaka%20002
-socks5://jp-osa-wg-socks5-003.relays.mullvad.net:1080/#Japan%20Osaka%20003
-socks5://jp-osa-wg-socks5-004.relays.mullvad.net:1080/#Japan%20Osaka%20004
 socks5://jp-osa-wg-socks5-101.relays.mullvad.net:1080/#Japan%20Osaka%20101
 socks5://jp-osa-wg-socks5-102.relays.mullvad.net:1080/#Japan%20Osaka%20102
 socks5://jp-osa-wg-socks5-103.relays.mullvad.net:1080/#Japan%20Osaka%20103
