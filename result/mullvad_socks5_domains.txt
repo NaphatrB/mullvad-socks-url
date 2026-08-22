@@ -453,6 +453,9 @@ us-mkc-wg-socks5-102.relays.mullvad.net
 us-mkc-wg-socks5-103.relays.mullvad.net
 us-mkc-wg-socks5-104.relays.mullvad.net
 us-mkc-wg-socks5-105.relays.mullvad.net
+us-nyc-wg-socks5-001.relays.mullvad.net
+us-nyc-wg-socks5-002.relays.mullvad.net
+us-nyc-wg-socks5-003.relays.mullvad.net
 us-nyc-wg-socks5-301.relays.mullvad.net
 us-nyc-wg-socks5-302.relays.mullvad.net
 us-nyc-wg-socks5-303.relays.mullvad.net
