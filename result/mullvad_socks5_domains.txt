@@ -79,6 +79,7 @@ ch-zrh-wg-socks5-201.relays.mullvad.net
 ch-zrh-wg-socks5-202.relays.mullvad.net
 ch-zrh-wg-socks5-401.relays.mullvad.net
 ch-zrh-wg-socks5-402.relays.mullvad.net
+ch-zrh-wg-socks5-403.relays.mullvad.net
 ch-zrh-wg-socks5-404.relays.mullvad.net
 ch-zrh-wg-socks5-501.relays.mullvad.net
 ch-zrh-wg-socks5-502.relays.mullvad.net
@@ -101,8 +102,6 @@ de-ber-wg-socks5-004.relays.mullvad.net
 de-ber-wg-socks5-101.relays.mullvad.net
 de-ber-wg-socks5-102.relays.mullvad.net
 de-ber-wg-socks5-103.relays.mullvad.net
-de-dus-wg-socks5-002.relays.mullvad.net
-de-dus-wg-socks5-003.relays.mullvad.net
 de-dus-wg-socks5-101.relays.mullvad.net
 de-dus-wg-socks5-102.relays.mullvad.net
 de-dus-wg-socks5-103.relays.mullvad.net
@@ -118,11 +117,11 @@ de-fra-wg-socks5-104.relays.mullvad.net
 de-fra-wg-socks5-201.relays.mullvad.net
 de-fra-wg-socks5-202.relays.mullvad.net
 de-fra-wg-socks5-203.relays.mullvad.net
-de-fra-wg-socks5-303.relays.mullvad.net
 de-fra-wg-socks5-401.relays.mullvad.net
 de-fra-wg-socks5-402.relays.mullvad.net
 de-fra-wg-socks5-403.relays.mullvad.net
 dk-cph-wg-socks5-001.relays.mullvad.net
+dk-cph-wg-socks5-002.relays.mullvad.net
 dk-cph-wg-socks5-102.relays.mullvad.net
 dk-cph-wg-socks5-401.relays.mullvad.net
 dk-cph-wg-socks5-402.relays.mullvad.net
@@ -158,6 +157,7 @@ fr-par-wg-socks5-001.relays.mullvad.net
 fr-par-wg-socks5-002.relays.mullvad.net
 fr-par-wg-socks5-003.relays.mullvad.net
 fr-par-wg-socks5-004.relays.mullvad.net
+fr-par-wg-socks5-005.relays.mullvad.net
 fr-par-wg-socks5-006.relays.mullvad.net
 fr-par-wg-socks5-007.relays.mullvad.net
 fr-par-wg-socks5-101.relays.mullvad.net
@@ -178,8 +178,6 @@ gb-lon-wg-socks5-008.relays.mullvad.net
 gb-lon-wg-socks5-101.relays.mullvad.net
 gb-lon-wg-socks5-102.relays.mullvad.net
 gb-lon-wg-socks5-103.relays.mullvad.net
-gb-lon-wg-socks5-203.relays.mullvad.net
-gb-lon-wg-socks5-204.relays.mullvad.net
 gb-lon-wg-socks5-305.relays.mullvad.net
 gb-lon-wg-socks5-306.relays.mullvad.net
 gb-lon-wg-socks5-308.relays.mullvad.net
@@ -241,9 +239,6 @@ nl-ams-wg-socks5-005.relays.mullvad.net
 nl-ams-wg-socks5-006.relays.mullvad.net
 nl-ams-wg-socks5-007.relays.mullvad.net
 nl-ams-wg-socks5-008.relays.mullvad.net
-nl-ams-wg-socks5-101.relays.mullvad.net
-nl-ams-wg-socks5-102.relays.mullvad.net
-nl-ams-wg-socks5-103.relays.mullvad.net
 nl-ams-wg-socks5-201.relays.mullvad.net
 nl-ams-wg-socks5-202.relays.mullvad.net
 nl-ams-wg-socks5-203.relays.mullvad.net
@@ -435,6 +430,7 @@ us-lax-wg-socks5-704.relays.mullvad.net
 us-mia-wg-socks5-001.relays.mullvad.net
 us-mia-wg-socks5-002.relays.mullvad.net
 us-mia-wg-socks5-003.relays.mullvad.net
+us-mia-wg-socks5-101.relays.mullvad.net
 us-mia-wg-socks5-102.relays.mullvad.net
 us-mia-wg-socks5-103.relays.mullvad.net
 us-mkc-wg-socks5-001.relays.mullvad.net
@@ -520,8 +516,6 @@ us-sfo-wg-socks5-002.relays.mullvad.net
 us-sjc-wg-socks5-001.relays.mullvad.net
 us-sjc-wg-socks5-002.relays.mullvad.net
 us-sjc-wg-socks5-003.relays.mullvad.net
-us-sjc-wg-socks5-302.relays.mullvad.net
-us-sjc-wg-socks5-303.relays.mullvad.net
 us-sjc-wg-socks5-401.relays.mullvad.net
 us-sjc-wg-socks5-402.relays.mullvad.net
 us-sjc-wg-socks5-501.relays.mullvad.net
