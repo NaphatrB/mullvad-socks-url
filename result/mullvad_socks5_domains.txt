@@ -305,9 +305,6 @@ se-sto-wg-socks5-008.relays.mullvad.net
 se-sto-wg-socks5-009.relays.mullvad.net
 se-sto-wg-socks5-010.relays.mullvad.net
 se-sto-wg-socks5-011.relays.mullvad.net
-se-sto-wg-socks5-012.relays.mullvad.net
-se-sto-wg-socks5-013.relays.mullvad.net
-se-sto-wg-socks5-014.relays.mullvad.net
 se-sto-wg-socks5-201.relays.mullvad.net
 se-sto-wg-socks5-202.relays.mullvad.net
 se-sto-wg-socks5-203.relays.mullvad.net
