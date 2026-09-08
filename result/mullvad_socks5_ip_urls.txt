@@ -73,8 +73,6 @@ socks5://10.124.0.178:1080/#Canada%20Calgary%20202
 socks5://10.124.0.121:1080/#Switzerland%20Zurich%20001
 socks5://10.124.0.122:1080/#Switzerland%20Zurich%20002
 socks5://10.124.0.123:1080/#Switzerland%20Zurich%20003
-socks5://10.124.0.125:1080/#Switzerland%20Zurich%20005
-socks5://10.124.0.241:1080/#Switzerland%20Zurich%20006
 socks5://10.124.0.105:1080/#Switzerland%20Zurich%20201
 socks5://10.124.0.106:1080/#Switzerland%20Zurich%20202
 socks5://10.124.1.213:1080/#Switzerland%20Zurich%20401
@@ -368,6 +366,7 @@ socks5://10.124.1.226:1080/#USA%20Dallas%2C%20TX%20401
 socks5://10.124.1.225:1080/#USA%20Dallas%2C%20TX%20402
 socks5://10.124.1.224:1080/#USA%20Dallas%2C%20TX%20403
 socks5://10.124.1.171:1080/#USA%20Dallas%2C%20TX%20601
+socks5://10.124.1.172:1080/#USA%20Dallas%2C%20TX%20602
 socks5://10.124.1.173:1080/#USA%20Dallas%2C%20TX%20603
 socks5://10.124.1.174:1080/#USA%20Dallas%2C%20TX%20604
 socks5://10.124.2.88:1080/#USA%20Dallas%2C%20TX%20701
