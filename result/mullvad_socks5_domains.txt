@@ -229,9 +229,6 @@ my-kul-wg-socks5-001.relays.mullvad.net
 my-kul-wg-socks5-002.relays.mullvad.net
 ng-los-wg-socks5-001.relays.mullvad.net
 ng-los-wg-socks5-002.relays.mullvad.net
-nl-ams-wg-socks5-001.relays.mullvad.net
-nl-ams-wg-socks5-002.relays.mullvad.net
-nl-ams-wg-socks5-003.relays.mullvad.net
 nl-ams-wg-socks5-004.relays.mullvad.net
 nl-ams-wg-socks5-005.relays.mullvad.net
 nl-ams-wg-socks5-006.relays.mullvad.net

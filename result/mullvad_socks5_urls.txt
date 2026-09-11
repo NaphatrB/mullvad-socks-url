@@ -229,9 +229,6 @@ socks5://my-kul-wg-socks5-001.relays.mullvad.net:1080/#Malaysia%20Kuala%20Lumpur
 socks5://my-kul-wg-socks5-002.relays.mullvad.net:1080/#Malaysia%20Kuala%20Lumpur%20002
 socks5://ng-los-wg-socks5-001.relays.mullvad.net:1080/#Nigeria%20Lagos%20001
 socks5://ng-los-wg-socks5-002.relays.mullvad.net:1080/#Nigeria%20Lagos%20002
-socks5://nl-ams-wg-socks5-001.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20001
-socks5://nl-ams-wg-socks5-002.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20002
-socks5://nl-ams-wg-socks5-003.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20003
 socks5://nl-ams-wg-socks5-004.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20004
 socks5://nl-ams-wg-socks5-005.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20005
 socks5://nl-ams-wg-socks5-006.relays.mullvad.net:1080/#Netherlands%20Amsterdam%20006
