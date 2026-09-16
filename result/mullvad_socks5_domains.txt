@@ -70,9 +70,9 @@ ca-van-wg-socks5-301.relays.mullvad.net
 ca-van-wg-socks5-302.relays.mullvad.net
 ca-yyc-wg-socks5-201.relays.mullvad.net
 ca-yyc-wg-socks5-202.relays.mullvad.net
-ch-zrh-wg-socks5-001.relays.mullvad.net
 ch-zrh-wg-socks5-002.relays.mullvad.net
 ch-zrh-wg-socks5-003.relays.mullvad.net
+ch-zrh-wg-socks5-004.relays.mullvad.net
 ch-zrh-wg-socks5-201.relays.mullvad.net
 ch-zrh-wg-socks5-202.relays.mullvad.net
 ch-zrh-wg-socks5-401.relays.mullvad.net
