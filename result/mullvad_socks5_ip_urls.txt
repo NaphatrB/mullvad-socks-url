@@ -33,8 +33,8 @@ socks5://10.124.2.73:1080/#Australia%20Sydney%20304
 socks5://10.124.2.42:1080/#Belgium%20Brussels%20101
 socks5://10.124.2.43:1080/#Belgium%20Brussels%20102
 socks5://10.124.2.44:1080/#Belgium%20Brussels%20103
-socks5://10.124.0.225:1080/#Bulgaria%20Sofia%20001
 socks5://10.124.0.226:1080/#Bulgaria%20Sofia%20002
+socks5://10.124.0.100:1080/#Bulgaria%20Sofia%20003
 socks5://10.124.0.10:1080/#Brazil%20Fortaleza%20001
 socks5://10.124.0.12:1080/#Brazil%20Fortaleza%20002
 socks5://10.124.2.31:1080/#Brazil%20Sao%20Paulo%20201
@@ -155,9 +155,6 @@ socks5://10.124.0.116:1080/#France%20Paris%20001
 socks5://10.124.0.117:1080/#France%20Paris%20002
 socks5://10.124.0.118:1080/#France%20Paris%20003
 socks5://10.124.0.119:1080/#France%20Paris%20004
-socks5://10.124.0.120:1080/#France%20Paris%20005
-socks5://10.124.0.238:1080/#France%20Paris%20006
-socks5://10.124.0.142:1080/#France%20Paris%20007
 socks5://10.124.0.223:1080/#France%20Paris%20101
 socks5://10.124.0.224:1080/#France%20Paris%20102
 socks5://10.124.1.11:1080/#France%20Paris%20103
@@ -312,7 +309,6 @@ socks5://10.124.0.130:1080/#Sweden%20Stockholm%20209
 socks5://10.124.1.244:1080/#Singapore%20Singapore%20001
 socks5://10.124.1.245:1080/#Singapore%20Singapore%20002
 socks5://10.124.1.246:1080/#Singapore%20Singapore%20003
-socks5://10.124.1.51:1080/#Singapore%20Singapore%20101
 socks5://10.124.1.52:1080/#Singapore%20Singapore%20102
 socks5://10.124.1.54:1080/#Singapore%20Singapore%20103
 socks5://10.124.0.248:1080/#Slovenia%20Ljubljana%20001
