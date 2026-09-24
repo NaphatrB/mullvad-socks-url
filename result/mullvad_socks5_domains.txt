@@ -117,7 +117,9 @@ de-fra-wg-socks5-104.relays.mullvad.net
 de-fra-wg-socks5-201.relays.mullvad.net
 de-fra-wg-socks5-202.relays.mullvad.net
 de-fra-wg-socks5-203.relays.mullvad.net
-de-fra-wg-socks5-401.relays.mullvad.net
+de-fra-wg-socks5-404.relays.mullvad.net
+de-fra-wg-socks5-405.relays.mullvad.net
+de-fra-wg-socks5-406.relays.mullvad.net
 dk-cph-wg-socks5-001.relays.mullvad.net
 dk-cph-wg-socks5-002.relays.mullvad.net
 dk-cph-wg-socks5-102.relays.mullvad.net
