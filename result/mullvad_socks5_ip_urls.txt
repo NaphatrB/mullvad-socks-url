@@ -310,7 +310,9 @@ socks5://10.124.0.130:1080/#Sweden%20Stockholm%20209
 socks5://10.124.1.244:1080/#Singapore%20Singapore%20001
 socks5://10.124.1.245:1080/#Singapore%20Singapore%20002
 socks5://10.124.1.246:1080/#Singapore%20Singapore%20003
+socks5://10.124.1.51:1080/#Singapore%20Singapore%20101
 socks5://10.124.1.52:1080/#Singapore%20Singapore%20102
+socks5://10.124.1.54:1080/#Singapore%20Singapore%20103
 socks5://10.124.0.248:1080/#Slovenia%20Ljubljana%20001
 socks5://10.124.0.249:1080/#Slovenia%20Ljubljana%20002
 socks5://10.124.2.3:1080/#Slovakia%20Bratislava%20001

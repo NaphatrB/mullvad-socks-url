@@ -310,7 +310,9 @@ se-sto-wg-socks5-209.relays.mullvad.net
 sg-sin-wg-socks5-001.relays.mullvad.net
 sg-sin-wg-socks5-002.relays.mullvad.net
 sg-sin-wg-socks5-003.relays.mullvad.net
+sg-sin-wg-socks5-101.relays.mullvad.net
 sg-sin-wg-socks5-102.relays.mullvad.net
+sg-sin-wg-socks5-103.relays.mullvad.net
 si-lju-wg-socks5-001.relays.mullvad.net
 si-lju-wg-socks5-002.relays.mullvad.net
 sk-bts-wg-socks5-001.relays.mullvad.net
