@@ -271,7 +271,6 @@ ro-buh-wg-socks5-013.relays.mullvad.net
 rs-beg-wg-socks5-101.relays.mullvad.net
 rs-beg-wg-socks5-102.relays.mullvad.net
 se-got-wg-socks5-001.relays.mullvad.net
-se-got-wg-socks5-002.relays.mullvad.net
 se-got-wg-socks5-003.relays.mullvad.net
 se-got-wg-socks5-004.relays.mullvad.net
 se-got-wg-socks5-005.relays.mullvad.net
