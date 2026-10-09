@@ -40,8 +40,6 @@ br-for-wg-socks5-001.relays.mullvad.net
 br-for-wg-socks5-002.relays.mullvad.net
 br-sao-wg-socks5-201.relays.mullvad.net
 br-sao-wg-socks5-202.relays.mullvad.net
-br-sao-wg-socks5-303.relays.mullvad.net
-br-sao-wg-socks5-304.relays.mullvad.net
 ca-mtr-wg-socks5-001.relays.mullvad.net
 ca-mtr-wg-socks5-002.relays.mullvad.net
 ca-mtr-wg-socks5-003.relays.mullvad.net

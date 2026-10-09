@@ -40,8 +40,6 @@ socks5://br-for-wg-socks5-001.relays.mullvad.net:1080/#Brazil%20Fortaleza%20001
 socks5://br-for-wg-socks5-002.relays.mullvad.net:1080/#Brazil%20Fortaleza%20002
 socks5://br-sao-wg-socks5-201.relays.mullvad.net:1080/#Brazil%20Sao%20Paulo%20201
 socks5://br-sao-wg-socks5-202.relays.mullvad.net:1080/#Brazil%20Sao%20Paulo%20202
-socks5://br-sao-wg-socks5-303.relays.mullvad.net:1080/#Brazil%20Sao%20Paulo%20303
-socks5://br-sao-wg-socks5-304.relays.mullvad.net:1080/#Brazil%20Sao%20Paulo%20304
 socks5://ca-mtr-wg-socks5-001.relays.mullvad.net:1080/#Canada%20Montreal%20001
 socks5://ca-mtr-wg-socks5-002.relays.mullvad.net:1080/#Canada%20Montreal%20002
 socks5://ca-mtr-wg-socks5-003.relays.mullvad.net:1080/#Canada%20Montreal%20003
