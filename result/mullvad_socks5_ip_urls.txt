@@ -88,6 +88,8 @@ socks5://10.124.1.20:1080/#Chile%20Santiago%20001
 socks5://10.124.1.21:1080/#Chile%20Santiago%20002
 socks5://10.124.0.216:1080/#Colombia%20Bogota%20001
 socks5://10.124.0.217:1080/#Colombia%20Bogota%20002
+socks5://10.124.1.83:1080/#Cyprus%20Nicosia%20001
+socks5://10.124.1.84:1080/#Cyprus%20Nicosia%20002
 socks5://10.124.2.33:1080/#Czech%20Republic%20Prague%20101
 socks5://10.124.2.34:1080/#Czech%20Republic%20Prague%20102
 socks5://10.124.2.57:1080/#Czech%20Republic%20Prague%20201
