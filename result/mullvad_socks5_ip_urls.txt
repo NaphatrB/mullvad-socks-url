@@ -90,8 +90,8 @@ socks5://10.124.0.216:1080/#Colombia%20Bogota%20001
 socks5://10.124.0.217:1080/#Colombia%20Bogota%20002
 socks5://10.124.1.83:1080/#Cyprus%20Nicosia%20001
 socks5://10.124.1.84:1080/#Cyprus%20Nicosia%20002
-socks5://10.124.2.33:1080/#Czech%20Republic%20Prague%20101
-socks5://10.124.2.34:1080/#Czech%20Republic%20Prague%20102
+socks5://10.124.0.77:1080/#Czech%20Republic%20Prague%20101
+socks5://10.124.0.48:1080/#Czech%20Republic%20Prague%20103
 socks5://10.124.2.57:1080/#Czech%20Republic%20Prague%20201
 socks5://10.124.2.58:1080/#Czech%20Republic%20Prague%20202
 socks5://10.124.0.7:1080/#Germany%20Berlin%20001
@@ -122,8 +122,6 @@ socks5://10.124.1.50:1080/#Germany%20Frankfurt%20406
 socks5://10.124.0.64:1080/#Denmark%20Copenhagen%20001
 socks5://10.124.0.17:1080/#Denmark%20Copenhagen%20002
 socks5://10.124.2.91:1080/#Denmark%20Copenhagen%20102
-socks5://10.124.0.229:1080/#Denmark%20Copenhagen%20401
-socks5://10.124.0.230:1080/#Denmark%20Copenhagen%20402
 socks5://10.124.1.249:1080/#Estonia%20Tallinn%20101
 socks5://10.124.2.6:1080/#Estonia%20Tallinn%20102
 socks5://10.124.2.7:1080/#Estonia%20Tallinn%20103
