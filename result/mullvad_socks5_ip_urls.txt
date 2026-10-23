@@ -300,6 +300,7 @@ socks5://10.124.0.52:1080/#Sweden%20Stockholm%20202
 socks5://10.124.0.57:1080/#Sweden%20Stockholm%20203
 socks5://10.124.0.58:1080/#Sweden%20Stockholm%20204
 socks5://10.124.0.79:1080/#Sweden%20Stockholm%20205
+socks5://10.124.0.115:1080/#Sweden%20Stockholm%20206
 socks5://10.124.0.128:1080/#Sweden%20Stockholm%20207
 socks5://10.124.0.129:1080/#Sweden%20Stockholm%20208
 socks5://10.124.0.130:1080/#Sweden%20Stockholm%20209
