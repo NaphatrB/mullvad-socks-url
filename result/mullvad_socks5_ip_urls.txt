@@ -1,7 +1,5 @@
 socks5://10.124.1.240:1080/#Albania%20Tirana%20001
 socks5://10.124.0.93:1080/#Albania%20Tirana%20002
-socks5://10.124.2.66:1080/#Albania%20Tirana%20003
-socks5://10.124.2.67:1080/#Albania%20Tirana%20004
 socks5://10.124.0.15:1080/#Argentina%20Buenos%20Aires%20001
 socks5://10.124.0.47:1080/#Argentina%20Buenos%20Aires%20002
 socks5://10.124.0.182:1080/#Austria%20Vienna%20001
@@ -122,6 +120,8 @@ socks5://10.124.1.50:1080/#Germany%20Frankfurt%20406
 socks5://10.124.0.64:1080/#Denmark%20Copenhagen%20001
 socks5://10.124.0.17:1080/#Denmark%20Copenhagen%20002
 socks5://10.124.2.91:1080/#Denmark%20Copenhagen%20102
+socks5://10.124.0.19:1080/#Denmark%20Copenhagen%20401
+socks5://10.124.0.30:1080/#Denmark%20Copenhagen%20402
 socks5://10.124.1.249:1080/#Estonia%20Tallinn%20101
 socks5://10.124.2.6:1080/#Estonia%20Tallinn%20102
 socks5://10.124.2.7:1080/#Estonia%20Tallinn%20103
@@ -212,7 +212,6 @@ socks5://10.124.0.56:1080/#Japan%20Osaka%20101
 socks5://10.124.0.136:1080/#Japan%20Osaka%20102
 socks5://10.124.0.237:1080/#Japan%20Osaka%20103
 socks5://10.124.1.218:1080/#Japan%20Tokyo%20001
-socks5://10.124.1.217:1080/#Japan%20Tokyo%20002
 socks5://10.124.1.118:1080/#Japan%20Tokyo%20201
 socks5://10.124.1.119:1080/#Japan%20Tokyo%20202
 socks5://10.124.1.120:1080/#Japan%20Tokyo%20203
@@ -235,7 +234,6 @@ socks5://10.124.2.1:1080/#Netherlands%20Amsterdam%20203
 socks5://10.124.0.244:1080/#Netherlands%20Amsterdam%20301
 socks5://10.124.0.245:1080/#Netherlands%20Amsterdam%20302
 socks5://10.124.1.121:1080/#Netherlands%20Amsterdam%20303
-socks5://10.124.0.236:1080/#Netherlands%20Amsterdam%20401
 socks5://10.124.1.48:1080/#Netherlands%20Amsterdam%20402
 socks5://10.124.0.6:1080/#Norway%20Oslo%20001
 socks5://10.124.0.108:1080/#Norway%20Oslo%20002
