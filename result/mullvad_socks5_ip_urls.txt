@@ -18,6 +18,9 @@ socks5://10.124.0.69:1080/#Australia%20Brisbane%20303
 socks5://10.124.1.53:1080/#Australia%20Melbourne%20401
 socks5://10.124.1.59:1080/#Australia%20Melbourne%20402
 socks5://10.124.2.107:1080/#Australia%20Melbourne%20403
+socks5://10.124.0.95:1080/#Australia%20Perth%20001
+socks5://10.124.0.102:1080/#Australia%20Perth%20002
+socks5://10.124.0.120:1080/#Australia%20Perth%20003
 socks5://10.124.1.55:1080/#Australia%20Perth%20301
 socks5://10.124.1.57:1080/#Australia%20Perth%20302
 socks5://10.124.0.36:1080/#Australia%20Sydney%20001
