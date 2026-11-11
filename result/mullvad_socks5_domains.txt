@@ -21,8 +21,6 @@ au-mel-wg-socks5-403.relays.mullvad.net
 au-per-wg-socks5-001.relays.mullvad.net
 au-per-wg-socks5-002.relays.mullvad.net
 au-per-wg-socks5-003.relays.mullvad.net
-au-per-wg-socks5-301.relays.mullvad.net
-au-per-wg-socks5-302.relays.mullvad.net
 au-syd-wg-socks5-001.relays.mullvad.net
 au-syd-wg-socks5-002.relays.mullvad.net
 au-syd-wg-socks5-003.relays.mullvad.net
