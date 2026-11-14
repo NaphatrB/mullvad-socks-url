@@ -180,8 +180,6 @@ socks5://10.124.1.86:1080/#UK%20London%20306
 socks5://10.124.1.117:1080/#UK%20London%20308
 socks5://10.124.0.31:1080/#UK%20Manchester%20001
 socks5://10.124.0.32:1080/#UK%20Manchester%20002
-socks5://10.124.0.34:1080/#UK%20Manchester%20003
-socks5://10.124.0.88:1080/#UK%20Manchester%20004
 socks5://10.124.1.163:1080/#UK%20Manchester%20202
 socks5://10.124.0.159:1080/#Greece%20Athens%20101
 socks5://10.124.0.166:1080/#Greece%20Athens%20102

@@ -180,8 +180,6 @@ socks5://gb-lon-wg-socks5-306.relays.mullvad.net:1080/#UK%20London%20306
 socks5://gb-lon-wg-socks5-308.relays.mullvad.net:1080/#UK%20London%20308
 socks5://gb-mnc-wg-socks5-001.relays.mullvad.net:1080/#UK%20Manchester%20001
 socks5://gb-mnc-wg-socks5-002.relays.mullvad.net:1080/#UK%20Manchester%20002
-socks5://gb-mnc-wg-socks5-003.relays.mullvad.net:1080/#UK%20Manchester%20003
-socks5://gb-mnc-wg-socks5-004.relays.mullvad.net:1080/#UK%20Manchester%20004
 socks5://gb-mnc-wg-socks5-202.relays.mullvad.net:1080/#UK%20Manchester%20202
 socks5://gr-ath-wg-socks5-101.relays.mullvad.net:1080/#Greece%20Athens%20101
 socks5://gr-ath-wg-socks5-102.relays.mullvad.net:1080/#Greece%20Athens%20102
