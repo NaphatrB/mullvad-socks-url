@@ -130,6 +130,9 @@ socks5://10.124.2.6:1080/#Estonia%20Tallinn%20102
 socks5://10.124.2.7:1080/#Estonia%20Tallinn%20103
 socks5://10.124.0.252:1080/#Spain%20Barcelona%20001
 socks5://10.124.0.253:1080/#Spain%20Barcelona%20002
+socks5://10.124.0.33:1080/#Spain%20Barcelona%20101
+socks5://10.124.0.73:1080/#Spain%20Barcelona%20102
+socks5://10.124.0.123:1080/#Spain%20Barcelona%20103
 socks5://10.124.1.223:1080/#Spain%20Madrid%20101
 socks5://10.124.1.222:1080/#Spain%20Madrid%20102
 socks5://10.124.2.8:1080/#Spain%20Madrid%20203
@@ -203,8 +206,6 @@ socks5://10.124.2.26:1080/#Israel%20Tel%20Aviv%20103
 socks5://10.124.1.206:1080/#Italy%20Milan%20001
 socks5://10.124.1.207:1080/#Italy%20Milan%20002
 socks5://10.124.1.208:1080/#Italy%20Milan%20003
-socks5://10.124.0.200:1080/#Italy%20Milan%20201
-socks5://10.124.0.201:1080/#Italy%20Milan%20202
 socks5://10.124.1.67:1080/#Italy%20Palermo%20001
 socks5://10.124.1.68:1080/#Italy%20Palermo%20002
 socks5://10.124.0.56:1080/#Japan%20Osaka%20101
